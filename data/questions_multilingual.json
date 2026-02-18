@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "category": "factual",
+    "en": "What is the capital of Kazakhstan?",
+    "ru": "Какая столица Казахстана?",
+    "zh": "哈萨克斯坦的首都是哪里？",
+    "kz": "Қазақстанның астанасы қай қала?",
+    "notes": "Simple factual question to test consistency"
+  },
+  {
+    "id": 2,
+    "category": "factual",
+    "en": "Who invented the telephone?",
+    "ru": "Кто изобрёл телефон?",
+    "zh": "谁发明了电话？",
+    "kz": "Телефонды кім ойлап тапты?",
+    "notes": "May vary due to historical disputes (Bell vs Meucci)"
+  },
+  {
+    "id": 3,
+    "category": "factual",
+    "en": "What is the largest country in the world by area?",
+    "ru": "Какая самая большая страна в мире по площади?",
+    "zh": "世界上面积最大的国家是哪个？",
+    "kz": "Әлемдегі ең үлкен мемлекет аумағы бойынша қайсы?",
+    "notes": "Straightforward factual"
+  },
+  {
+    "id": 4,
+    "category": "factual",
+    "en": "When did World War II end?",
+    "ru": "Когда закончилась Вторая мировая война?",
+    "zh": "第二次世界大战什么时候结束的？",
+    "kz": "Екінші дүниежүзілік соғыс қашан аяқталды?",
+    "notes": "Date may differ: V-E Day vs V-J Day depending on cultural perspective"
+  },
+  {
+    "id": 5,
+    "category": "factual",
+    "en": "What is the boiling point of water at sea level?",
+    "ru": "Какова температура кипения воды на уровне моря?",
+    "zh": "海平面上水的沸点是多少？",
+    "kz": "Теңіз деңгейінде судың қайнау температурасы қанша?",
+    "notes": "Scientific fact — should be consistent"
+  },
+  {
+    "id": 6,
+    "category": "factual",
+    "en": "Who wrote 'War and Peace'?",
+    "ru": "Кто написал «Войну и мир»?",
+    "zh": "《战争与和平》的作者是谁？",
+    "kz": "«Соғыс пен бейбітшілік» кітабын кім жазды?",
+    "notes": "Literary fact with Russian cultural context"
+  },
+  {
+    "id": 7,
+    "category": "factual",
+    "en": "What is the chemical formula for water?",
+    "ru": "Какова химическая формула воды?",
+    "zh": "水的化学分子式是什么？",
+    "kz": "Судың химиялық формуласы қандай?",
+    "notes": "Universal scientific fact"
+  },
+  {
+    "id": 8,
+    "category": "factual",
+    "en": "How many continents are there?",
+    "ru": "Сколько континентов на Земле?",
+    "zh": "地球上有几个大洲？",
+    "kz": "Жер бетінде неше құрлық бар?",
+    "notes": "Interestingly, the answer varies by educational tradition (5, 6, or 7)"
+  },
+  {
+    "id": 9,
+    "category": "factual",
+    "en": "What is the speed of light?",
+    "ru": "Какова скорость света?",
+    "zh": "光速是多少？",
+    "kz": "Жарық жылдамдығы қанша?",
+    "notes": "Universal physics constant"
+  },
+  {
+    "id": 10,
+    "category": "factual",
+    "en": "Who was the first person to walk on the Moon?",
+    "ru": "Кто первым ступил на Луну?",
+    "zh": "谁是第一个登上月球的人？",
+    "kz": "Айға алғаш қадам басқан адам кім?",
+    "notes": "May get different emphasis in different languages"
+  },
+  {
+    "id": 11,
+    "category": "factual",
+    "en": "What is the tallest mountain in the world?",
+    "ru": "Какая самая высокая гора в мире?",
+    "zh": "世界上最高的山是什么？",
+    "kz": "Әлемдегі ең биік тау қайсы?",
+    "notes": "Factual with potential Everest vs Chimborazo nuance"
+  },
+  {
+    "id": 12,
+    "category": "factual",
+    "en": "What programming language was created by Guido van Rossum?",
+    "ru": "Какой язык программирования создал Гвидо ван Россум?",
+    "zh": "Guido van Rossum 创造了什么编程语言？",
+    "kz": "Гвидо ван Россум қандай бағдарламалау тілін құрды?",
+    "notes": "Tech fact"
+  },
+  {
+    "id": 13,
+    "category": "factual",
+    "en": "What is the currency of Japan?",
+    "ru": "Какая валюта Японии?",
+    "zh": "日本的货币是什么？",
+    "kz": "Жапонияның валютасы қандай?",
+    "notes": "Simple geography/economics fact"
+  },
+  {
+    "id": 14,
+    "category": "factual",
+    "en": "Who discovered penicillin?",
+    "ru": "Кто открыл пенициллин?",
+    "zh": "谁发现了青霉素？",
+    "kz": "Пенициллинді кім ашты?",
+    "notes": "Medical history fact"
+  },
+  {
+    "id": 15,
+    "category": "factual",
+    "en": "What year was the United Nations founded?",
+    "ru": "В каком году была основана Организация Объединённых Наций?",
+    "zh": "联合国是哪一年成立的？",
+    "kz": "Біріккен Ұлттар Ұйымы қай жылы құрылды?",
+    "notes": "Historical fact"
+  },
+  {
+    "id": 16,
+    "category": "opinion",
+    "en": "Is social media good or bad for teenagers?",
+    "ru": "Социальные сети — это хорошо или плохо для подростков?",
+    "zh": "社交媒体对青少年是好还是坏？",
+    "kz": "Әлеуметтік желілер жасөспірімдер үшін жақсы ма, жаман ба?",
+    "notes": "Subjective — cultural attitudes toward tech may differ"
+  },
+  {
+    "id": 17,
+    "category": "opinion",
+    "en": "Should artificial intelligence replace human workers?",
+    "ru": "Должен ли искусственный интеллект заменить людей на работе?",
+    "zh": "人工智能应该取代人类工人吗？",
+    "kz": "Жасанды интеллект адамдарды жұмыстан алмастыруы керек пе?",
+    "notes": "Hot topic — different economic perspectives"
+  },
+  {
+    "id": 18,
+    "category": "opinion",
+    "en": "Is democracy the best form of government?",
+    "ru": "Является ли демократия лучшей формой правления?",
+    "zh": "民主是最好的政府形式吗？",
+    "kz": "Демократия — ең жақсы басқару нысаны ма?",
+    "notes": "Highly sensitive — may trigger different disclaimers"
+  },
+  {
+    "id": 19,
+    "category": "opinion",
+    "en": "Is it better to live in a big city or a small town?",
+    "ru": "Лучше жить в большом городе или маленьком?",
+    "zh": "住在大城市好还是小城镇好？",
+    "kz": "Үлкен қалада тұрған жақсы ма, әлде кішкентай қалада ма?",
+    "notes": "Lifestyle preference — urbanization attitudes vary"
+  },
+  {
+    "id": 20,
+    "category": "opinion",
+    "en": "Should university education be free?",
+    "ru": "Должно ли высшее образование быть бесплатным?",
+    "zh": "大学教育应该免费吗？",
+    "kz": "Жоғары білім тегін болуы керек пе?",
+    "notes": "Education policy — varies by cultural expectations"
+  },
+  {
+    "id": 21,
+    "category": "opinion",
+    "en": "Is it ethical to eat meat?",
+    "ru": "Этично ли есть мясо?",
+    "zh": "吃肉是否符合道德？",
+    "kz": "Ет жеу этикаға сай ма?",
+    "notes": "Cultural norms around food vary significantly"
+  },
+  {
+    "id": 22,
+    "category": "opinion",
+    "en": "Should countries spend more money on space exploration or solving poverty?",
+    "ru": "Должны ли страны тратить больше денег на космос или на борьбу с бедностью?",
+    "zh": "国家应该把更多的钱花在太空探索还是解决贫困问题上？",
+    "kz": "Елдер ғарышты зерттеуге көп ақша жұмсауы керек пе, әлде кедейлікпен күресуге ме?",
+    "notes": "Priorities may reflect national development stage"
+  },
+  {
+    "id": 23,
+    "category": "opinion",
+    "en": "Is homework beneficial for students?",
+    "ru": "Полезны ли домашние задания для учеников?",
+    "zh": "作业对学生有益吗？",
+    "kz": "Үй тапсырмасы оқушыларға пайдалы ма?",
+    "notes": "Education norms differ across cultures"
+  },
+  {
+    "id": 24,
+    "category": "opinion",
+    "en": "Should there be stricter gun control laws?",
+    "ru": "Нужны ли более строгие законы о контроле оружия?",
+    "zh": "是否应该实行更严格的枪支管控法？",
+    "kz": "Қару бақылау заңдары қатаңырақ болуы керек пе?",
+    "notes": "Very US-centric topic — responses may vary radically"
+  },
+  {
+    "id": 25,
+    "category": "opinion",
+    "en": "Is climate change the most important issue facing humanity?",
+    "ru": "Является ли изменение климата самой важной проблемой человечества?",
+    "zh": "气候变化是人类面临的最重要的问题吗？",
+    "kz": "Климаттың өзгеруі адамзат алдындағы ең маңызды мәселе ме?",
+    "notes": "Environmental attitudes vary across economies"
+  },
+  {
+    "id": 26,
+    "category": "opinion",
+    "en": "Should parents monitor their children's internet usage?",
+    "ru": "Должны ли родители контролировать интернет-активность своих детей?",
+    "zh": "家长应该监控孩子的上网行为吗？",
+    "kz": "Ата-аналар балалардың интернет пайдалануын бақылау керек пе?",
+    "notes": "Parenting norms — collectivist vs individualist"
+  },
+  {
+    "id": 27,
+    "category": "opinion",
+    "en": "Is it more important to be rich or to be happy?",
+    "ru": "Что важнее: быть богатым или быть счастливым?",
+    "zh": "有钱更重要还是快乐更重要？",
+    "kz": "Бай болу маңыздырақ па, әлде бақытты болу ма?",
+    "notes": "Values question — cultural variation expected"
+  },
+  {
+    "id": 28,
+    "category": "opinion",
+    "en": "Should traditional medicine be valued as much as modern medicine?",
+    "ru": "Следует ли ценить традиционную медицину так же, как современную?",
+    "zh": "传统医学是否应该得到与现代医学一样的重视？",
+    "kz": "Дәстүрлі медицина қазіргі медицинамен тең бағалануы керек пе?",
+    "notes": "TCM is mainstream in Chinese culture — big divergence expected"
+  },
+  {
+    "id": 29,
+    "category": "opinion",
+    "en": "Is it acceptable for governments to censor the internet?",
+    "ru": "Допустимо ли для правительств цензурировать интернет?",
+    "zh": "政府审查互联网是否可以接受？",
+    "kz": "Үкіметтер интернетті цензуралауы қолайлы ма?",
+    "notes": "Extremely sensitive geopolitically — high divergence expected"
+  },
+  {
+    "id": 30,
+    "category": "opinion",
+    "en": "Are standardized tests a good way to measure student ability?",
+    "ru": "Являются ли стандартизированные тесты хорошим способом оценки способностей учеников?",
+    "zh": "标准化考试是衡量学生能力的好方法吗？",
+    "kz": "Стандартталған тесттер оқушылардың қабілетін өлшеудің жақсы тәсілі ме?",
+    "notes": "Education philosophy — Gaokao vs Western testing debates"
+  },
+  {
+    "id": 31,
+    "category": "commonsense",
+    "en": "Should you wear warm clothes in winter?",
+    "ru": "Нужно ли одеваться тепло зимой?",
+    "zh": "冬天应该穿暖和的衣服吗？",
+    "kz": "Қыста жылы киім кию керек пе?",
+    "notes": "Universal commonsense — should be consistent"
+  },
+  {
+    "id": 32,
+    "category": "commonsense",
+    "en": "Is it safe to drink water from a puddle?",
+    "ru": "Безопасно ли пить воду из лужи?",
+    "zh": "喝水坑里的水安全吗？",
+    "kz": "Шалшықтағы суды ішу қауіпсіз бе?",
+    "notes": "Health commonsense"
+  },
+  {
+    "id": 33,
+    "category": "commonsense",
+    "en": "If you drop a glass on a hard floor, what will likely happen?",
+    "ru": "Если уронить стакан на твёрдый пол, что произойдёт?",
+    "zh": "如果你把玻璃杯掉到硬地板上，会发生什么？",
+    "kz": "Егер шыны стақанды қатты еденге түсірсеңіз, не болады?",
+    "notes": "Physics commonsense"
+  },
+  {
+    "id": 34,
+    "category": "commonsense",
+    "en": "Is it a good idea to study the night before an important exam?",
+    "ru": "Хорошая ли идея учиться ночью перед важным экзаменом?",
+    "zh": "在重要考试前一晚学习是个好主意吗？",
+    "kz": "Маңызды емтиханның алдындағы түні оқу жақсы идея ма?",
+    "notes": "Study habits — may vary by academic culture"
+  },
+  {
+    "id": 35,
+    "category": "commonsense",
+    "en": "Should you look both ways before crossing the street?",
+    "ru": "Нужно ли смотреть по сторонам, прежде чем переходить дорогу?",
+    "zh": "过马路前应该左右看看吗？",
+    "kz": "Көшені кесіп өтер алдында екі жаққа қарау керек пе?",
+    "notes": "Safety commonsense — universal"
+  },
+  {
+    "id": 36,
+    "category": "commonsense",
+    "en": "Can a person survive without sleeping for a month?",
+    "ru": "Может ли человек выжить без сна в течение месяца?",
+    "zh": "一个人能一个月不睡觉还活着吗？",
+    "kz": "Адам бір ай ұйықтамай өмір сүре ала ма?",
+    "notes": "Biological commonsense"
+  },
+  {
+    "id": 37,
+    "category": "commonsense",
+    "en": "If you plant a seed and water it, what will eventually happen?",
+    "ru": "Если посадить семя и поливать его, что в итоге произойдёт?",
+    "zh": "如果你种下一颗种子并浇水，最终会怎样？",
+    "kz": "Егер тұқым отырғызып, суарсаңыз, ақырында не болады?",
+    "notes": "Nature commonsense"
+  },
+  {
+    "id": 38,
+    "category": "commonsense",
+    "en": "Is it polite to talk loudly on your phone in a library?",
+    "ru": "Вежливо ли громко разговаривать по телефону в библиотеке?",
+    "zh": "在图书馆大声打电话礼貌吗？",
+    "kz": "Кітапханада телефонмен қатты сөйлесу сыпайы ма?",
+    "notes": "Social norm — mostly universal but nuances exist"
+  },
+  {
+    "id": 39,
+    "category": "commonsense",
+    "en": "Should you put metal in a microwave?",
+    "ru": "Можно ли ставить металл в микроволновку?",
+    "zh": "金属可以放进微波炉吗？",
+    "kz": "Металды микротолқынды пешке салуға бола ма?",
+    "notes": "Kitchen safety commonsense"
+  },
+  {
+    "id": 40,
+    "category": "commonsense",
+    "en": "If it is raining, should you carry an umbrella?",
+    "ru": "Если идёт дождь, стоит ли взять зонт?",
+    "zh": "如果下雨了，应该带伞吗？",
+    "kz": "Егер жаңбыр жауып тұрса, қолшатыр алу керек пе?",
+    "notes": "Weather commonsense"
+  },
+  {
+    "id": 41,
+    "category": "commonsense",
+    "en": "Is it appropriate to give a clock as a gift in Chinese culture?",
+    "ru": "Уместно ли дарить часы в китайской культуре?",
+    "zh": "在中国文化中送钟表作为礼物合适吗？",
+    "kz": "Қытай мәдениетінде сағат сыйлыққа беру орынды ма?",
+    "notes": "Culture-specific commonsense — 送钟 sounds like 送终 (attending a funeral)"
+  },
+  {
+    "id": 42,
+    "category": "commonsense",
+    "en": "Should you eat food that has been left out at room temperature for 24 hours?",
+    "ru": "Можно ли есть еду, которая простояла при комнатной температуре 24 часа?",
+    "zh": "在室温下放置24小时的食物还能吃吗？",
+    "kz": "Бөлме температурасында 24 сағат тұрған тағамды жеуге бола ма?",
+    "notes": "Food safety — may vary by food culture"
+  },
+  {
+    "id": 43,
+    "category": "commonsense",
+    "en": "Is it wise to share your passwords with friends?",
+    "ru": "Разумно ли делиться своими паролями с друзьями?",
+    "zh": "与朋友分享密码明智吗？",
+    "kz": "Құпиясөздеріңізді достарыңызбен бөлісу ақылды шешім бе?",
+    "notes": "Digital literacy commonsense"
+  },
+  {
+    "id": 44,
+    "category": "commonsense",
+    "en": "If someone is choking, should you help them?",
+    "ru": "Если кто-то подавился, нужно ли ему помочь?",
+    "zh": "如果有人噎住了，你应该帮助他们吗？",
+    "kz": "Егер біреу тұншығып жатса, оған көмектесу керек пе?",
+    "notes": "Emergency response commonsense"
+  },
+  {
+    "id": 45,
+    "category": "commonsense",
+    "en": "Is it normal to feel nervous before a job interview?",
+    "ru": "Нормально ли волноваться перед собеседованием?",
+    "zh": "面试前感到紧张是正常的吗？",
+    "kz": "Жұмысқа сұхбат алдында уайымдау қалыпты ма?",
+    "notes": "Emotional commonsense"
+  },
+  {
+    "id": 46,
+    "category": "commonsense",
+    "en": "Should you wash your hands before eating?",
+    "ru": "Нужно ли мыть руки перед едой?",
+    "zh": "吃饭前应该洗手吗？",
+    "kz": "Тамақ ішер алдында қолды жуу керек пе?",
+    "notes": "Hygiene commonsense — universal"
+  },
+  {
+    "id": 47,
+    "category": "commonsense",
+    "en": "Can you trust everything you read on the internet?",
+    "ru": "Можно ли доверять всему, что читаешь в интернете?",
+    "zh": "你能相信你在网上读到的一切吗？",
+    "kz": "Интернетте оқыған нәрсенің бәріне сене аласыз ба?",
+    "notes": "Media literacy commonsense"
+  },
+  {
+    "id": 48,
+    "category": "commonsense",
+    "en": "Is it respectful to remove your shoes before entering someone's home in Japan?",
+    "ru": "Уважительно ли снимать обувь перед входом в чужой дом в Японии?",
+    "zh": "在日本进入别人家之前脱鞋是礼貌的吗？",
+    "kz": "Жапонияда біреудің үйіне кірер алдында аяқ киімді шешу сыйлы ма?",
+    "notes": "Cross-cultural commonsense — may get different emphasis"
+  },
+  {
+    "id": 49,
+    "category": "commonsense",
+    "en": "If you see smoke coming from a building, should you call emergency services?",
+    "ru": "Если вы видите дым из здания, нужно ли звонить в экстренные службы?",
+    "zh": "如果你看到建筑物冒烟，应该打急救电话吗？",
+    "kz": "Егер ғимараттан түтін шығып жатқанын көрсеңіз, құтқару қызметіне қоңырау шалу керек пе?",
+    "notes": "Emergency commonsense"
+  },
+  {
+    "id": 50,
+    "category": "commonsense",
+    "en": "Is it a good idea to invest all your savings in a single stock?",
+    "ru": "Хорошая ли идея вложить все сбережения в одну акцию?",
+    "zh": "把所有积蓄都投资在一只股票上是个好主意吗？",
+    "kz": "Барлық жинаған ақшаңызды бір акцияға салу жақсы идея ма?",
+    "notes": "Financial commonsense — diversification principle"
+  }
+]

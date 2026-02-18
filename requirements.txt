@@ -1,0 +1,19 @@
+# LLM API clients
+groq>=0.4.0
+google-generativeai>=0.8.0
+openai>=1.0.0
+
+# Analysis
+sentence-transformers>=2.2.0
+textblob>=0.17.1
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
