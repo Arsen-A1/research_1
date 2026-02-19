@@ -46,21 +46,8 @@ MODEL_CONFIGS = {
         "model_id": "llama-3.3-70b-versatile",
         "display_name": "Llama 3.3 70B (Groq)",
     },
-    "gemma2-9b": {
-        "provider": "groq",
-        "model_id": "gemma2-9b-it",
-        "display_name": "Gemma 2 9B (Groq)",
-    },
-    "gemini-flash": {
-        "provider": "gemini",
-        "model_id": "gemini-1.5-flash",
-        "display_name": "Gemini 1.5 Flash (Google)",
-    },
-    "gemini-pro": {
-        "provider": "gemini",
-        "model_id": "gemini-1.5-pro",
-        "display_name": "Gemini 1.5 Pro (Google)",
-    },
+
+
 }
 
 # System prompt — deliberately neutral to avoid biasing responses
@@ -177,6 +164,9 @@ def load_existing_responses(model_key: str) -> dict:
             # Build lookup: (question_id, language) -> response
             lookup = {}
             for entry in data.get("responses", []):
+                # Retry if previous attempt failed
+                if entry.get("error"):
+                    continue
                 key = (entry["question_id"], entry["language"])
                 lookup[key] = entry
             return lookup

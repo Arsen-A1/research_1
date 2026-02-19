@@ -27,8 +27,8 @@ env/
 Thumbs.db
 
 # Results (regenerated at runtime)
-results/responses/
-results/figures/
+# results/responses/
+# results/figures/
 
 # Models cache
 models/

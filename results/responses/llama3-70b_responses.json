@@ -1,0 +1,2810 @@
+{
+  "model": "Llama 3.3 70B (Groq)",
+  "model_id": "llama-3.3-70b-versatile",
+  "provider": "groq",
+  "timestamp": "2026-02-18T16:30:48.964845",
+  "system_prompt": "You are a helpful assistant. Answer the question directly and concisely.",
+  "total_queries": 200,
+  "responses": [
+    {
+      "question_id": 1,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the capital of Kazakhstan?",
+      "answer": "The capital of Kazakhstan is Astana.",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 9,
+        "total_tokens": 66
+      },
+      "latency_seconds": 0.477,
+      "error": null
+    },
+    {
+      "question_id": 1,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какая столица Казахстана?",
+      "answer": "Столица Казахстана - Астана.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 13,
+        "total_tokens": 73
+      },
+      "latency_seconds": 0.238,
+      "error": null
+    },
+    {
+      "question_id": 1,
+      "category": "factual",
+      "language": "zh",
+      "question": "哈萨克斯坦的首都是哪里？",
+      "answer": "阿斯塔纳（2019年后改称为努尔苏丹）。",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 18,
+        "total_tokens": 77
+      },
+      "latency_seconds": 0.311,
+      "error": null
+    },
+    {
+      "question_id": 1,
+      "category": "factual",
+      "language": "kz",
+      "question": "Қазақстанның астанасы қай қала?",
+      "answer": "Астана қаласы",
+      "usage": {
+        "prompt_tokens": 70,
+        "completion_tokens": 9,
+        "total_tokens": 79
+      },
+      "latency_seconds": 0.251,
+      "error": null
+    },
+    {
+      "question_id": 2,
+      "category": "factual",
+      "language": "en",
+      "question": "Who invented the telephone?",
+      "answer": "Alexander Graham Bell is credited with inventing the first practical telephone in 1876.",
+      "usage": {
+        "prompt_tokens": 55,
+        "completion_tokens": 18,
+        "total_tokens": 73
+      },
+      "latency_seconds": 0.289,
+      "error": null
+    },
+    {
+      "question_id": 2,
+      "category": "factual",
+      "language": "ru",
+      "question": "Кто изобрёл телефон?",
+      "answer": "Александр Грейам Белл.",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 11,
+        "total_tokens": 70
+      },
+      "latency_seconds": 0.271,
+      "error": null
+    },
+    {
+      "question_id": 2,
+      "category": "factual",
+      "language": "zh",
+      "question": "谁发明了电话？",
+      "answer": "亚历山大·格雷厄姆·贝尔。",
+      "usage": {
+        "prompt_tokens": 56,
+        "completion_tokens": 15,
+        "total_tokens": 71
+      },
+      "latency_seconds": 0.347,
+      "error": null
+    },
+    {
+      "question_id": 2,
+      "category": "factual",
+      "language": "kz",
+      "question": "Телефонды кім ойлап тапты?",
+      "answer": "Телефонды шотланд физигі Александр Грейам Белл ойлап тапты.",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 24,
+        "total_tokens": 86
+      },
+      "latency_seconds": 0.338,
+      "error": null
+    },
+    {
+      "question_id": 3,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the largest country in the world by area?",
+      "answer": "Russia is the largest country in the world by area, covering approximately 17.1 million square kilometers.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 22,
+        "total_tokens": 83
+      },
+      "latency_seconds": 1.004,
+      "error": null
+    },
+    {
+      "question_id": 3,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какая самая большая страна в мире по площади?",
+      "answer": "Россия - самая большая страна в мире по площади, занимая примерно 17,1 миллиона квадратных километров.",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 36,
+        "total_tokens": 100
+      },
+      "latency_seconds": 0.308,
+      "error": null
+    },
+    {
+      "question_id": 3,
+      "category": "factual",
+      "language": "zh",
+      "question": "世界上面积最大的国家是哪个？",
+      "answer": "俄罗斯。",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 4,
+        "total_tokens": 64
+      },
+      "latency_seconds": 0.183,
+      "error": null
+    },
+    {
+      "question_id": 3,
+      "category": "factual",
+      "language": "kz",
+      "question": "Әлемдегі ең үлкен мемлекет аумағы бойынша қайсы?",
+      "answer": "Ресей аумағы бойынша әлемдегі ең үлкен мемлекет. есте болсын, Ресейдің аумағы 17 125 200 шаршы километрді құрайды.",
+      "usage": {
+        "prompt_tokens": 82,
+        "completion_tokens": 71,
+        "total_tokens": 153
+      },
+      "latency_seconds": 0.545,
+      "error": null
+    },
+    {
+      "question_id": 4,
+      "category": "factual",
+      "language": "en",
+      "question": "When did World War II end?",
+      "answer": "World War II ended on September 2, 1945.",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 14,
+        "total_tokens": 71
+      },
+      "latency_seconds": 0.317,
+      "error": null
+    },
+    {
+      "question_id": 4,
+      "category": "factual",
+      "language": "ru",
+      "question": "Когда закончилась Вторая мировая война?",
+      "answer": "Вторая мировая война завершилась официально 2 сентября 1945 года, когда Япония подписала акт о безоговорочной капитуляции на борту военного корабля USS Missouri.",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 48,
+        "total_tokens": 111
+      },
+      "latency_seconds": 0.289,
+      "error": null
+    },
+    {
+      "question_id": 4,
+      "category": "factual",
+      "language": "zh",
+      "question": "第二次世界大战什么时候结束的？",
+      "answer": "1945年9月2日。",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 9,
+        "total_tokens": 69
+      },
+      "latency_seconds": 0.196,
+      "error": null
+    },
+    {
+      "question_id": 4,
+      "category": "factual",
+      "language": "kz",
+      "question": "Екінші дүниежүзілік соғыс қашан аяқталды?",
+      "answer": "Екінші дүниежүзілік соғыс 1945 жылы аяқталды.",
+      "usage": {
+        "prompt_tokens": 78,
+        "completion_tokens": 31,
+        "total_tokens": 109
+      },
+      "latency_seconds": 0.336,
+      "error": null
+    },
+    {
+      "question_id": 5,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the boiling point of water at sea level?",
+      "answer": "The boiling point of water at sea level is 212°F (100°C).",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 17,
+        "total_tokens": 78
+      },
+      "latency_seconds": 0.205,
+      "error": null
+    },
+    {
+      "question_id": 5,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какова температура кипения воды на уровне моря?",
+      "answer": "100 градусов Цельсия (°C) или 212 градусов Фаренгейта (°F).",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 30,
+        "total_tokens": 90
+      },
+      "latency_seconds": 0.251,
+      "error": null
+    },
+    {
+      "question_id": 5,
+      "category": "factual",
+      "language": "zh",
+      "question": "海平面上水的沸点是多少？",
+      "answer": "海平面上的水沸点是100摄氏度或212华氏度。",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 20,
+        "total_tokens": 82
+      },
+      "latency_seconds": 0.252,
+      "error": null
+    },
+    {
+      "question_id": 5,
+      "category": "factual",
+      "language": "kz",
+      "question": "Теңіз деңгейінде судың қайнау температурасы қанша?",
+      "answer": "Теңіз деңгейінде судың қайнау температурасы 100 градус Цельсий.",
+      "usage": {
+        "prompt_tokens": 82,
+        "completion_tokens": 37,
+        "total_tokens": 119
+      },
+      "latency_seconds": 0.332,
+      "error": null
+    },
+    {
+      "question_id": 6,
+      "category": "factual",
+      "language": "en",
+      "question": "Who wrote 'War and Peace'?",
+      "answer": "Leo Tolstoy wrote 'War and Peace'.",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 11,
+        "total_tokens": 68
+      },
+      "latency_seconds": 0.183,
+      "error": null
+    },
+    {
+      "question_id": 6,
+      "category": "factual",
+      "language": "ru",
+      "question": "Кто написал «Войну и мир»?",
+      "answer": "Лев Толстой.",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 8,
+        "total_tokens": 70
+      },
+      "latency_seconds": 0.185,
+      "error": null
+    },
+    {
+      "question_id": 6,
+      "category": "factual",
+      "language": "zh",
+      "question": "《战争与和平》的作者是谁？",
+      "answer": "《战争与和平》的作者是列夫·托尔斯泰。",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 17,
+        "total_tokens": 77
+      },
+      "latency_seconds": 0.274,
+      "error": null
+    },
+    {
+      "question_id": 6,
+      "category": "factual",
+      "language": "kz",
+      "question": "«Соғыс пен бейбітшілік» кітабын кім жазды?",
+      "answer": "«Соғыс пен бейбітшілік» кітабын Лев Толстой жазды.",
+      "usage": {
+        "prompt_tokens": 75,
+        "completion_tokens": 31,
+        "total_tokens": 106
+      },
+      "latency_seconds": 0.301,
+      "error": null
+    },
+    {
+      "question_id": 7,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the chemical formula for water?",
+      "answer": "H2O",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 4,
+        "total_tokens": 62
+      },
+      "latency_seconds": 0.188,
+      "error": null
+    },
+    {
+      "question_id": 7,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какова химическая формула воды?",
+      "answer": "H2O.",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 5,
+        "total_tokens": 64
+      },
+      "latency_seconds": 0.181,
+      "error": null
+    },
+    {
+      "question_id": 7,
+      "category": "factual",
+      "language": "zh",
+      "question": "水的化学分子式是什么？",
+      "answer": "H2O",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 4,
+        "total_tokens": 62
+      },
+      "latency_seconds": 0.22,
+      "error": null
+    },
+    {
+      "question_id": 7,
+      "category": "factual",
+      "language": "kz",
+      "question": "Судың химиялық формуласы қандай?",
+      "answer": "Судың химиялық формуласы H2O.",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 19,
+        "total_tokens": 88
+      },
+      "latency_seconds": 0.322,
+      "error": null
+    },
+    {
+      "question_id": 8,
+      "category": "factual",
+      "language": "en",
+      "question": "How many continents are there?",
+      "answer": "There are 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+      "usage": {
+        "prompt_tokens": 56,
+        "completion_tokens": 24,
+        "total_tokens": 80
+      },
+      "latency_seconds": 0.215,
+      "error": null
+    },
+    {
+      "question_id": 8,
+      "category": "factual",
+      "language": "ru",
+      "question": "Сколько континентов на Земле?",
+      "answer": "7 континентов.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 6,
+        "total_tokens": 66
+      },
+      "latency_seconds": 0.184,
+      "error": null
+    },
+    {
+      "question_id": 8,
+      "category": "factual",
+      "language": "zh",
+      "question": "地球上有几个大洲？",
+      "answer": "7个大洲。",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 6,
+        "total_tokens": 63
+      },
+      "latency_seconds": 0.192,
+      "error": null
+    },
+    {
+      "question_id": 8,
+      "category": "factual",
+      "language": "kz",
+      "question": "Жер бетінде неше құрлық бар?",
+      "answer": "Жер бетінде 7 құрлық бар: Африка, Антарктида, Аустралия, Евразия, Оңтүстік Америка, Солтүстік Америка және Океания.",
+      "usage": {
+        "prompt_tokens": 67,
+        "completion_tokens": 66,
+        "total_tokens": 133
+      },
+      "latency_seconds": 0.568,
+      "error": null
+    },
+    {
+      "question_id": 9,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the speed of light?",
+      "answer": "The speed of light is approximately 299,792,458 meters per second (m/s) or 186,282 miles per second (mi/s).",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 32,
+        "total_tokens": 89
+      },
+      "latency_seconds": 0.312,
+      "error": null
+    },
+    {
+      "question_id": 9,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какова скорость света?",
+      "answer": "Скорость света составляет примерно 299 792 458 метров в секунду (м/с).",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 25,
+        "total_tokens": 82
+      },
+      "latency_seconds": 0.252,
+      "error": null
+    },
+    {
+      "question_id": 9,
+      "category": "factual",
+      "language": "zh",
+      "question": "光速是多少？",
+      "answer": "光速约为299,792,458米每秒（m/s）。",
+      "usage": {
+        "prompt_tokens": 55,
+        "completion_tokens": 17,
+        "total_tokens": 72
+      },
+      "latency_seconds": 0.265,
+      "error": null
+    },
+    {
+      "question_id": 9,
+      "category": "factual",
+      "language": "kz",
+      "question": "Жарық жылдамдығы қанша?",
+      "answer": "Жарық жылдамдығы секундына 299 792 458 метрді құрайды.",
+      "usage": {
+        "prompt_tokens": 67,
+        "completion_tokens": 33,
+        "total_tokens": 100
+      },
+      "latency_seconds": 0.313,
+      "error": null
+    },
+    {
+      "question_id": 10,
+      "category": "factual",
+      "language": "en",
+      "question": "Who was the first person to walk on the Moon?",
+      "answer": "Neil Armstrong was the first person to walk on the Moon, on July 20, 1969.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 22,
+        "total_tokens": 83
+      },
+      "latency_seconds": 0.201,
+      "error": null
+    },
+    {
+      "question_id": 10,
+      "category": "factual",
+      "language": "ru",
+      "question": "Кто первым ступил на Луну?",
+      "answer": "Нил Армстронг.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 9,
+        "total_tokens": 70
+      },
+      "latency_seconds": 0.205,
+      "error": null
+    },
+    {
+      "question_id": 10,
+      "category": "factual",
+      "language": "zh",
+      "question": "谁是第一个登上月球的人？",
+      "answer": "尼尔·阿姆斯特朗是第一个登上月球的人。",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 17,
+        "total_tokens": 77
+      },
+      "latency_seconds": 0.265,
+      "error": null
+    },
+    {
+      "question_id": 10,
+      "category": "factual",
+      "language": "kz",
+      "question": "Айға алғаш қадам басқан адам кім?",
+      "answer": "Айға алғаш қадам басқан адам - Нил Армстронг.",
+      "usage": {
+        "prompt_tokens": 72,
+        "completion_tokens": 30,
+        "total_tokens": 102
+      },
+      "latency_seconds": 0.326,
+      "error": null
+    },
+    {
+      "question_id": 11,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the tallest mountain in the world?",
+      "answer": "The tallest mountain in the world is Mount Everest, with a height of 8,848.86 meters (29,031.7 feet) above sea level.",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 34,
+        "total_tokens": 93
+      },
+      "latency_seconds": 0.225,
+      "error": null
+    },
+    {
+      "question_id": 11,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какая самая высокая гора в мире?",
+      "answer": "Самая высокая гора в мире - Эверест, высота которой составляет 8848 метров над уровнем моря. Она расположена в Гималаях, на границе между Непалом и Тибетом (Китаем).",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 57,
+        "total_tokens": 118
+      },
+      "latency_seconds": 0.451,
+      "error": null
+    },
+    {
+      "question_id": 11,
+      "category": "factual",
+      "language": "zh",
+      "question": "世界上最高的山是什么？",
+      "answer": "珠穆朗玛峰（海拔8848米）是世界上最高的山。",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 21,
+        "total_tokens": 78
+      },
+      "latency_seconds": 0.244,
+      "error": null
+    },
+    {
+      "question_id": 11,
+      "category": "factual",
+      "language": "kz",
+      "question": "Әлемдегі ең биік тау қайсы?",
+      "answer": "Әлемдегі ең биік тау - Эверест тауы. Оның биіктігі 8848 метр.",
+      "usage": {
+        "prompt_tokens": 68,
+        "completion_tokens": 37,
+        "total_tokens": 105
+      },
+      "latency_seconds": 0.301,
+      "error": null
+    },
+    {
+      "question_id": 12,
+      "category": "factual",
+      "language": "en",
+      "question": "What programming language was created by Guido van Rossum?",
+      "answer": "Python.",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 3,
+        "total_tokens": 65
+      },
+      "latency_seconds": 0.169,
+      "error": null
+    },
+    {
+      "question_id": 12,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какой язык программирования создал Гвидо ван Россум?",
+      "answer": "Гвидо ван Россум создал язык программирования Python.",
+      "usage": {
+        "prompt_tokens": 67,
+        "completion_tokens": 17,
+        "total_tokens": 84
+      },
+      "latency_seconds": 0.16,
+      "error": null
+    },
+    {
+      "question_id": 12,
+      "category": "factual",
+      "language": "zh",
+      "question": "Guido van Rossum 创造了什么编程语言？",
+      "answer": "Guido van Rossum 创建了 Python 编程语言。",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 13,
+        "total_tokens": 77
+      },
+      "latency_seconds": 0.479,
+      "error": null
+    },
+    {
+      "question_id": 12,
+      "category": "factual",
+      "language": "kz",
+      "question": "Гвидо ван Россум қандай бағдарламалау тілін құрды?",
+      "answer": "Гвидо ван Россум Python бағдарламалау тілін құрды.",
+      "usage": {
+        "prompt_tokens": 79,
+        "completion_tokens": 27,
+        "total_tokens": 106
+      },
+      "latency_seconds": 0.173,
+      "error": null
+    },
+    {
+      "question_id": 13,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the currency of Japan?",
+      "answer": "The currency of Japan is the Japanese yen (JPY).",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 13,
+        "total_tokens": 70
+      },
+      "latency_seconds": 0.166,
+      "error": null
+    },
+    {
+      "question_id": 13,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какая валюта Японии?",
+      "answer": "Валюта Японии - японская иена (JPY).",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 17,
+        "total_tokens": 76
+      },
+      "latency_seconds": 0.195,
+      "error": null
+    },
+    {
+      "question_id": 13,
+      "category": "factual",
+      "language": "zh",
+      "question": "日本的货币是什么？",
+      "answer": "日元（¥）",
+      "usage": {
+        "prompt_tokens": 56,
+        "completion_tokens": 6,
+        "total_tokens": 62
+      },
+      "latency_seconds": 0.145,
+      "error": null
+    },
+    {
+      "question_id": 13,
+      "category": "factual",
+      "language": "kz",
+      "question": "Жапонияның валютасы қандай?",
+      "answer": "Жапонияның валютасы - иена.",
+      "usage": {
+        "prompt_tokens": 66,
+        "completion_tokens": 16,
+        "total_tokens": 82
+      },
+      "latency_seconds": 0.361,
+      "error": null
+    },
+    {
+      "question_id": 14,
+      "category": "factual",
+      "language": "en",
+      "question": "Who discovered penicillin?",
+      "answer": "Alexander Fleming discovered penicillin in 1928.",
+      "usage": {
+        "prompt_tokens": 56,
+        "completion_tokens": 12,
+        "total_tokens": 68
+      },
+      "latency_seconds": 0.176,
+      "error": null
+    },
+    {
+      "question_id": 14,
+      "category": "factual",
+      "language": "ru",
+      "question": "Кто открыл пенициллин?",
+      "answer": "Пенициллин был открыт шотландским ученым Александром Флемингом в 1928 году.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 28,
+        "total_tokens": 88
+      },
+      "latency_seconds": 0.348,
+      "error": null
+    },
+    {
+      "question_id": 14,
+      "category": "factual",
+      "language": "zh",
+      "question": "谁发现了青霉素？",
+      "answer": "亚历山大·弗莱明。",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 10,
+        "total_tokens": 68
+      },
+      "latency_seconds": 0.314,
+      "error": null
+    },
+    {
+      "question_id": 14,
+      "category": "factual",
+      "language": "kz",
+      "question": "Пенициллинді кім ашты?",
+      "answer": "Пенициллинді шотландиялық ғалым Александр Флеминг ашты.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 26,
+        "total_tokens": 87
+      },
+      "latency_seconds": 0.354,
+      "error": null
+    },
+    {
+      "question_id": 15,
+      "category": "factual",
+      "language": "en",
+      "question": "What year was the United Nations founded?",
+      "answer": "The United Nations was founded in 1945.",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 11,
+        "total_tokens": 69
+      },
+      "latency_seconds": 0.226,
+      "error": null
+    },
+    {
+      "question_id": 15,
+      "category": "factual",
+      "language": "ru",
+      "question": "В каком году была основана Организация Объединённых Наций?",
+      "answer": "Организация Объединённых Наций была основана в 1945 году.",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 22,
+        "total_tokens": 91
+      },
+      "latency_seconds": 0.354,
+      "error": null
+    },
+    {
+      "question_id": 15,
+      "category": "factual",
+      "language": "zh",
+      "question": "联合国是哪一年成立的？",
+      "answer": "联合国成立于1945年。",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 9,
+        "total_tokens": 67
+      },
+      "latency_seconds": 0.166,
+      "error": null
+    },
+    {
+      "question_id": 15,
+      "category": "factual",
+      "language": "kz",
+      "question": "Біріккен Ұлттар Ұйымы қай жылы құрылды?",
+      "answer": "Біріккен Ұлттар Ұйымы 1945 жылы құрылды.",
+      "usage": {
+        "prompt_tokens": 80,
+        "completion_tokens": 31,
+        "total_tokens": 111
+      },
+      "latency_seconds": 0.289,
+      "error": null
+    },
+    {
+      "question_id": 16,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is social media good or bad for teenagers?",
+      "answer": "Social media can be both good and bad for teenagers. It offers benefits like connection, self-expression, and access to information, but also poses risks such as cyberbullying, addiction, and negative impacts on mental health.",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 45,
+        "total_tokens": 104
+      },
+      "latency_seconds": 0.375,
+      "error": null
+    },
+    {
+      "question_id": 16,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Социальные сети — это хорошо или плохо для подростков?",
+      "answer": "Социальные сети могут быть как полезными, так и вредными для подростков. С одной стороны, они предоставляют возможности для общения, обмена информацией и самовыражения. С другой стороны, они могут привести к кибербуллингу, зависимости и негативному влиянию на самооценку и психическое здоровье.",
+      "usage": {
+        "prompt_tokens": 66,
+        "completion_tokens": 79,
+        "total_tokens": 145
+      },
+      "latency_seconds": 0.502,
+      "error": null
+    },
+    {
+      "question_id": 16,
+      "category": "opinion",
+      "language": "zh",
+      "question": "社交媒体对青少年是好还是坏？",
+      "answer": "社交媒体对青少年既有积极影响，也有消极影响。积极影响包括社交联系、自我表达和信息获取。然而，消极影响包括网络欺凌、不切实际的比较和对心理健康的潜在负面影响。",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 61,
+        "total_tokens": 122
+      },
+      "latency_seconds": 0.423,
+      "error": null
+    },
+    {
+      "question_id": 16,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Әлеуметтік желілер жасөспірімдер үшін жақсы ма, жаман ба?",
+      "answer": "Әлеуметтік желілер жасөспірімдер үшін жақсы да, жаман да бола алады. Олардың арасындағы өзара байланыстарды және коммуникацияларды дамытуға көмектеседі, бірақ кейде олардың психологиялық және эмоциялық жағдайына теріс әсер етеді.",
+      "usage": {
+        "prompt_tokens": 84,
+        "completion_tokens": 139,
+        "total_tokens": 223
+      },
+      "latency_seconds": 0.822,
+      "error": null
+    },
+    {
+      "question_id": 17,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should artificial intelligence replace human workers?",
+      "answer": "No, artificial intelligence should not completely replace human workers. While AI can automate certain tasks, human workers bring unique skills, creativity, and emotional intelligence that are essential for many industries and jobs. A balanced approach that combines the benefits of AI with human capabilities is more desirable.",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 55,
+        "total_tokens": 112
+      },
+      "latency_seconds": 0.356,
+      "error": null
+    },
+    {
+      "question_id": 17,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Должен ли искусственный интеллект заменить людей на работе?",
+      "answer": "Нет, искусственный интеллект не должен полностью заменить людей на работе. Он может дополнить и улучшить человеческий труд, но не заменить его полностью.",
+      "usage": {
+        "prompt_tokens": 66,
+        "completion_tokens": 38,
+        "total_tokens": 104
+      },
+      "latency_seconds": 0.365,
+      "error": null
+    },
+    {
+      "question_id": 17,
+      "category": "opinion",
+      "language": "zh",
+      "question": "人工智能应该取代人类工人吗？",
+      "answer": "不，人工智能不应完全取代人类工人，因为它可以与人类合作以提高效率和生产力，但某些任务和行业需要人类的判断、同理心和创造力。",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 46,
+        "total_tokens": 107
+      },
+      "latency_seconds": 0.383,
+      "error": null
+    },
+    {
+      "question_id": 17,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Жасанды интеллект адамдарды жұмыстан алмастыруы керек пе?",
+      "answer": "Жасанды интеллект адамдарды жұмыстан алмастыруы тиіс емес, керісінше олардың жұмысын жеңілдетіп, өнімділігін арттыруға көмектесуі керек.",
+      "usage": {
+        "prompt_tokens": 78,
+        "completion_tokens": 78,
+        "total_tokens": 156
+      },
+      "latency_seconds": 0.65,
+      "error": null
+    },
+    {
+      "question_id": 18,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is democracy the best form of government?",
+      "answer": "Democracy is often considered one of the best forms of government, as it provides citizens with representation, protects individual rights, and promotes accountability. However, whether it is the \"best\" form of government is subjective and can depend on various factors, including cultural, historical, and economic contexts.",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 59,
+        "total_tokens": 117
+      },
+      "latency_seconds": 0.413,
+      "error": null
+    },
+    {
+      "question_id": 18,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Является ли демократия лучшей формой правления?",
+      "answer": "Демократия широко считается одной из наиболее эффективных и справедливых форм правления, поскольку она обеспечивает участие граждан в принятии решений и защиту их прав и свобод. Однако, идеальной формы правления не существует, и демократия также имеет свои недостатки и проблемы.",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 66,
+        "total_tokens": 131
+      },
+      "latency_seconds": 0.425,
+      "error": null
+    },
+    {
+      "question_id": 18,
+      "category": "opinion",
+      "language": "zh",
+      "question": "民主是最好的政府形式吗？",
+      "answer": "民主被广泛认为是最好的政府形式，因为它保护个人权利，促进平等和自由，并允许公民参与决策过程。然而，民主的优点和缺点可能因文化、历史和社会背景而异。",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 54,
+        "total_tokens": 112
+      },
+      "latency_seconds": 0.398,
+      "error": null
+    },
+    {
+      "question_id": 18,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Демократия — ең жақсы басқару нысаны ма?",
+      "answer": "Демократияның артықшылықтары бар, бірақ ол ең жақсы басқару нысаны деп айтуға болмайды. Әрбір елдің өзіндік тарихы, мәдениеті және қоғамдық қажеттері бар, сондықтан басқару нысаны да әртүрлі болуы мүмкін.",
+      "usage": {
+        "prompt_tokens": 75,
+        "completion_tokens": 142,
+        "total_tokens": 217
+      },
+      "latency_seconds": 0.93,
+      "error": null
+    },
+    {
+      "question_id": 19,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is it better to live in a big city or a small town?",
+      "answer": "It depends on personal preferences. Big cities offer more job opportunities, cultural diversity, and entertainment, while small towns provide a closer-knit community, lower cost of living, and a slower pace of life. Ultimately, the choice between a big city and a small town depends on what you value most.",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 61,
+        "total_tokens": 125
+      },
+      "latency_seconds": 0.374,
+      "error": null
+    },
+    {
+      "question_id": 19,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Лучше жить в большом городе или маленьком?",
+      "answer": "Лучше жить в большом городе или маленьком зависит от личных предпочтений и потребностей. Большой город предлагает больше возможностей для карьеры, развлечений и культурных мероприятий, но может быть шумным и дорогим. Маленький город, наоборот, часто более спокойный и доступный, но может иметь ограниченные возможности для карьеры и развлечений. В конечном итоге, выбор между большим городом и маленьким зависит от того, что для вас наиболее важно.",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 122,
+        "total_tokens": 186
+      },
+      "latency_seconds": 0.551,
+      "error": null
+    },
+    {
+      "question_id": 19,
+      "category": "opinion",
+      "language": "zh",
+      "question": "住在大城市好还是小城镇好？",
+      "answer": "这取决于个人偏好和需求。大城市通常提供更多的工作机会、文化活动和便利设施，而小城镇则可能提供更悠闲的生活节奏和更强的社区感。",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 46,
+        "total_tokens": 107
+      },
+      "latency_seconds": 0.43,
+      "error": null
+    },
+    {
+      "question_id": 19,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Үлкен қалада тұрған жақсы ма, әлде кішкентай қалада ма?",
+      "answer": "Үлкен қалада тұрудың артықшылығы - жақсы инфрақұрылым, көптеген жұмыс орындары, мәдениет пен спорт объектілерінің болуы. Алайда, үлкен қалаларда тұрудың кемшілігі - қалқалаңдық, көптеген адамдар, жоғары тұрғын үй бағалары және көлік жүргізу қиындығы.\n\nКішкентай қалаларда тұрудың артықшылығы - тыныштық, табиғатқа жақындық, төмен тұрғын үй бағалары және жергілікті қоғамдастықтың жақсы болуы. Алайда, кішкентай қалаларда тұрудың кемшілігі - шектеулі жұмыс орындары, мәдениет пен спорт объектілерінің аздығы және инфрақұрылымның дамымағандығы.\n\nСондықтан, үлкен қалада тұру не кішкентай қалада тұрудың жақсылығы әр адамның жеке басына байланысты. Әркім өз қажеттіліктеріне және пікірлеріне қарай таңдау жасайды.",
+      "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 494,
+        "total_tokens": 583
+      },
+      "latency_seconds": 3.458,
+      "error": null
+    },
+    {
+      "question_id": 20,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should university education be free?",
+      "answer": "Yes, many argue that university education should be free to increase accessibility, reduce student debt, and promote social mobility and economic growth.",
+      "usage": {
+        "prompt_tokens": 56,
+        "completion_tokens": 27,
+        "total_tokens": 83
+      },
+      "latency_seconds": 0.311,
+      "error": null
+    },
+    {
+      "question_id": 20,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Должно ли высшее образование быть бесплатным?",
+      "answer": "Да, высшее образование должно быть бесплатным или доступным по низкой стоимости, чтобы обеспечить равные возможности для всех.",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 31,
+        "total_tokens": 94
+      },
+      "latency_seconds": 0.531,
+      "error": null
+    },
+    {
+      "question_id": 20,
+      "category": "opinion",
+      "language": "zh",
+      "question": "大学教育应该免费吗？",
+      "answer": "是的，大学教育应该免费，因为这可以促进社会公平、增加受教育机会，并最终造福整个社会。",
+      "usage": {
+        "prompt_tokens": 56,
+        "completion_tokens": 29,
+        "total_tokens": 85
+      },
+      "latency_seconds": 0.347,
+      "error": null
+    },
+    {
+      "question_id": 20,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Жоғары білім тегін болуы керек пе?",
+      "answer": "Жоғары білім тегін болуы керек. Өйткені білім - адамның ең қымбатты байлығы. Бірақ барлық адамдарға тегін білім беру мемлекеттің қолынан келмейді. Сондықтан мемлекеттің жоғары білімге жұмсаған шығынын өтеу үшін студенттердің кредит алуы керек. Кредиттің пайызы жоқ, бірақ оны жоғары білім аяқтаған соң өтеу керек.",
+      "usage": {
+        "prompt_tokens": 70,
+        "completion_tokens": 202,
+        "total_tokens": 272
+      },
+      "latency_seconds": 1.386,
+      "error": null
+    },
+    {
+      "question_id": 21,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is it ethical to eat meat?",
+      "answer": "The ethics of eating meat is a complex and debated topic. Some argue it's ethical if the animals are raised and slaughtered humanely, while others believe it's never ethical due to animal suffering and environmental concerns. Ultimately, it depends on individual perspectives and values.",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 53,
+        "total_tokens": 110
+      },
+      "latency_seconds": 0.408,
+      "error": null
+    },
+    {
+      "question_id": 21,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Этично ли есть мясо?",
+      "answer": "Этичность поедания мяса является предметом дискуссии. Некоторые утверждают, что это неэтично из-за обращения с животными и воздействия на окружающую среду, в то время как другие считают, что умеренное потребление мяса может быть частью сбалансированной и устойчивой диеты.",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 82,
+        "total_tokens": 140
+      },
+      "latency_seconds": 0.481,
+      "error": null
+    },
+    {
+      "question_id": 21,
+      "category": "opinion",
+      "language": "zh",
+      "question": "吃肉是否符合道德？",
+      "answer": "答案因人而异，取决于个人信仰、文化背景和价值观。有些人认为吃肉是自然且必要的，而其他人则认为这不符合道德，尤其是考虑到动物福利和环境影响。",
+      "usage": {
+        "prompt_tokens": 57,
+        "completion_tokens": 52,
+        "total_tokens": 109
+      },
+      "latency_seconds": 0.384,
+      "error": null
+    },
+    {
+      "question_id": 21,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Ет жеу этикаға сай ма?",
+      "answer": "Ет жеу этикалық мәселелерді көтереді. Кейбір адамдар еттің өндірісі мен тұтынуының этикасы туралы сұрақтарға жауап беру үшін, жануарлардың құқықтарын, өндірістің әсерін ортаға, адамдардың денсаулығына және әлеуметтік әділетке баға беру керек.",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 164,
+        "total_tokens": 226
+      },
+      "latency_seconds": 1.394,
+      "error": null
+    },
+    {
+      "question_id": 22,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should countries spend more money on space exploration or solving poverty?",
+      "answer": "Countries should prioritize solving poverty, as it addresses immediate human needs and improves the quality of life for their citizens. Space exploration can be pursued in a more sustainable and collaborative manner, with international cooperation and private investment, allowing for a more balanced allocation of resources.",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 52,
+        "total_tokens": 114
+      },
+      "latency_seconds": 0.382,
+      "error": null
+    },
+    {
+      "question_id": 22,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Должны ли страны тратить больше денег на космос или на борьбу с бедностью?",
+      "answer": "Страны должны сбалансировать оба приоритета. Инвестиции в космос могут привести к прорывам в технологиях и науке, в то время как борьба с бедностью требует немедленного внимания для обеспечения базовых потребностей людей. Сбалансированный подход может включать выделение средств на обе области, уделяя приоритетное внимание наиболее насущным потребностям.",
+      "usage": {
+        "prompt_tokens": 71,
+        "completion_tokens": 97,
+        "total_tokens": 168
+      },
+      "latency_seconds": 0.552,
+      "error": null
+    },
+    {
+      "question_id": 22,
+      "category": "opinion",
+      "language": "zh",
+      "question": "国家应该把更多的钱花在太空探索还是解决贫困问题上？",
+      "answer": "这是一个复杂且有争议的问题。虽然太空探索可以带来科学进步和长期利益，但解决贫困问题是更紧迫和迫切的需求。优先考虑贫困问题可以直接改善人们的生活，减少苦难。",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 61,
+        "total_tokens": 130
+      },
+      "latency_seconds": 0.509,
+      "error": null
+    },
+    {
+      "question_id": 22,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Елдер ғарышты зерттеуге көп ақша жұмсауы керек пе, әлде кедейлікпен күресуге ме?",
+      "answer": "Елдер ғарышты зерттеуге және кедейлікпен күресуге бір мезгілде ақша жұмсауы тиіс. Бұл екі бағыттың өзара байланысы бар және бір-біріне әсер етеді. Ғарышты зерттеу технологиялық прогресске әкеледі, бұл кедейлікпен күресуде де пайдалы бола алады. Сонымен қатар, кедейлікпен күресу елдің экономикалық және әлеуметтік дамуына ықпал етеді, бұл ғарышты зерттеу үшін қаржы жұмсауға мүмкіндік береді.",
+      "usage": {
+        "prompt_tokens": 104,
+        "completion_tokens": 247,
+        "total_tokens": 351
+      },
+      "latency_seconds": 1.743,
+      "error": null
+    },
+    {
+      "question_id": 23,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is homework beneficial for students?",
+      "answer": "Yes, homework can be beneficial for students as it reinforces learning, develops study habits, and improves time management and retention of material.",
+      "usage": {
+        "prompt_tokens": 56,
+        "completion_tokens": 27,
+        "total_tokens": 83
+      },
+      "latency_seconds": 0.412,
+      "error": null
+    },
+    {
+      "question_id": 23,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Полезны ли домашние задания для учеников?",
+      "answer": "Да, домашние задания могут быть полезны для учеников, если они соответствуют их возрасту и способностям, помогая им закреплять знания и развивать навыки.",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 44,
+        "total_tokens": 107
+      },
+      "latency_seconds": 0.408,
+      "error": null
+    },
+    {
+      "question_id": 23,
+      "category": "opinion",
+      "language": "zh",
+      "question": "作业对学生有益吗？",
+      "answer": "是的，作业可以通过以下方式对学生有益：\n\n1. 加强学习\n2. 培养时间管理和组织技能\n3. 提高批判性思维和解决问题的能力\n4. 为考试和评估做好准备\n5. 培养责任感和自律。\n\n然而，过多的作业可能会产生负面影响，因此平衡至关重要。",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 89,
+        "total_tokens": 147
+      },
+      "latency_seconds": 0.515,
+      "error": null
+    },
+    {
+      "question_id": 23,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Үй тапсырмасы оқушыларға пайдалы ма?",
+      "answer": "Иә, үй тапсырмасы оқушыларға пайдалы. Олардың білімін нығайтып, ойлау қабілетін дамытады. Сонымен қатар, оқушыларға өз жұмысын ұйымдастыруды үйретеді және олардың жауапкершілік сезімін арттырады.",
+      "usage": {
+        "prompt_tokens": 75,
+        "completion_tokens": 130,
+        "total_tokens": 205
+      },
+      "latency_seconds": 0.982,
+      "error": null
+    },
+    {
+      "question_id": 24,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should there be stricter gun control laws?",
+      "answer": "Yes, many argue that stricter gun control laws could help reduce gun violence and promote public safety.",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 20,
+        "total_tokens": 78
+      },
+      "latency_seconds": 0.255,
+      "error": null
+    },
+    {
+      "question_id": 24,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Нужны ли более строгие законы о контроле оружия?",
+      "answer": "Да, более строгие законы о контроле оружия могут помочь снизить уровень насилия и преступности, связанных с оружием.",
+      "usage": {
+        "prompt_tokens": 68,
+        "completion_tokens": 38,
+        "total_tokens": 106
+      },
+      "latency_seconds": 0.316,
+      "error": null
+    },
+    {
+      "question_id": 24,
+      "category": "opinion",
+      "language": "zh",
+      "question": "是否应该实行更严格的枪支管控法？",
+      "answer": "这是一个复杂且有争议的问题。一些人认为更严格的枪支管制法可以减少枪支暴力和死亡人数，而另一些人则认为它会侵犯个人权利和自由。最终，解决方案可能在于找到一个平衡点，既能保护公众安全，又能尊重个人权利。",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 78,
+        "total_tokens": 142
+      },
+      "latency_seconds": 0.507,
+      "error": null
+    },
+    {
+      "question_id": 24,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Қару бақылау заңдары қатаңырақ болуы керек пе?",
+      "answer": "Қару бақылау заңдарының қатаңдығы туралы пікірлер бөлінеді. Кейбір адамдар олардың қатаңырақ болуы керек деп ойлайды, ал енді бірлерінде олардың әлсізденуі керек деп ойлайды.",
+      "usage": {
+        "prompt_tokens": 83,
+        "completion_tokens": 110,
+        "total_tokens": 193
+      },
+      "latency_seconds": 0.722,
+      "error": null
+    },
+    {
+      "question_id": 25,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is climate change the most important issue facing humanity?",
+      "answer": "Yes, climate change is widely considered one of the most pressing issues facing humanity, with the United Nations and many experts agreeing that it poses an existential threat to the planet and human societies.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 38,
+        "total_tokens": 98
+      },
+      "latency_seconds": 0.313,
+      "error": null
+    },
+    {
+      "question_id": 25,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Является ли изменение климата самой важной проблемой человечества?",
+      "answer": "Да, изменение климата считается одной из наиболее важных и срочных проблем, с которыми сталкивается человечество в настоящее время.",
+      "usage": {
+        "prompt_tokens": 67,
+        "completion_tokens": 34,
+        "total_tokens": 101
+      },
+      "latency_seconds": 0.414,
+      "error": null
+    },
+    {
+      "question_id": 25,
+      "category": "opinion",
+      "language": "zh",
+      "question": "气候变化是人类面临的最重要的问题吗？",
+      "answer": "是的，气候变化被广泛认为是人类面临的最重要的问题之一。",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 21,
+        "total_tokens": 84
+      },
+      "latency_seconds": 0.244,
+      "error": null
+    },
+    {
+      "question_id": 25,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Климаттың өзгеруі адамзат алдындағы ең маңызды мәселе ме?",
+      "answer": "Иә, климаттың өзгеруі адамзат алдындағы ең маңызды мәселелердің бірі болып табылады. Ол табиғи орта, экономика және адамдардың денсаулығына әсер етеді.",
+      "usage": {
+        "prompt_tokens": 91,
+        "completion_tokens": 96,
+        "total_tokens": 187
+      },
+      "latency_seconds": 0.665,
+      "error": null
+    },
+    {
+      "question_id": 26,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should parents monitor their children's internet usage?",
+      "answer": "Yes, parents should monitor their children's internet usage to ensure their safety and well-being.",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 19,
+        "total_tokens": 78
+      },
+      "latency_seconds": 0.185,
+      "error": null
+    },
+    {
+      "question_id": 26,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Должны ли родители контролировать интернет-активность своих детей?",
+      "answer": "Да, родители должны контролировать интернет-активность своих детей, чтобы обеспечить их безопасность и защиту от вредного контента.",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 35,
+        "total_tokens": 104
+      },
+      "latency_seconds": 0.346,
+      "error": null
+    },
+    {
+      "question_id": 26,
+      "category": "opinion",
+      "language": "zh",
+      "question": "家长应该监控孩子的上网行为吗？",
+      "answer": "是的，家长应该监控孩子的上网行为，以确保他们的安全和健康。",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 23,
+        "total_tokens": 85
+      },
+      "latency_seconds": 0.274,
+      "error": null
+    },
+    {
+      "question_id": 26,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Ата-аналар балалардың интернет пайдалануын бақылау керек пе?",
+      "answer": "Иә, ата-аналар балалардың интернет пайдалануын бақылауы керек. Балалардың интернетті пайдалануын бақылау арқылы, оларды зиянды контент пен интернеттеғі қауіп-қатерлерден қорғауға көмектеседі. Сонымен қатар, балалардың интернетті пайдалануын бақылау, олардың өз бетінше шешім қабылдауына және интернеттің пайдасын толығымен пайдалана алуына көмектеседі.",
+      "usage": {
+        "prompt_tokens": 81,
+        "completion_tokens": 201,
+        "total_tokens": 282
+      },
+      "latency_seconds": 1.341,
+      "error": null
+    },
+    {
+      "question_id": 27,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is it more important to be rich or to be happy?",
+      "answer": "It's more important to be happy. Happiness is a state of well-being and fulfillment, while wealth is just a means to achieve it, and it doesn't guarantee happiness.",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 36,
+        "total_tokens": 98
+      },
+      "latency_seconds": 0.381,
+      "error": null
+    },
+    {
+      "question_id": 27,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Что важнее: быть богатым или быть счастливым?",
+      "answer": "Быть счастливым. Счастье приносит удовлетворение и радость жизни, тогда как богатство не всегда гарантирует счастье.",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 40,
+        "total_tokens": 105
+      },
+      "latency_seconds": 0.397,
+      "error": null
+    },
+    {
+      "question_id": 27,
+      "category": "opinion",
+      "language": "zh",
+      "question": "有钱更重要还是快乐更重要？",
+      "answer": "快乐更重要。",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 6,
+        "total_tokens": 66
+      },
+      "latency_seconds": 0.191,
+      "error": null
+    },
+    {
+      "question_id": 27,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Бай болу маңыздырақ па, әлде бақытты болу ма?",
+      "answer": "Бақытты болу маңыздырақ. Бай болу өмірдің материалдық жағын қанағаттандырады, ал бақытты болу рухани тыныштық пен толықтықты білдіреді.",
+      "usage": {
+        "prompt_tokens": 79,
+        "completion_tokens": 83,
+        "total_tokens": 162
+      },
+      "latency_seconds": 0.646,
+      "error": null
+    },
+    {
+      "question_id": 28,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should traditional medicine be valued as much as modern medicine?",
+      "answer": "Yes, traditional medicine should be valued as it offers unique perspectives, cultural significance, and potential health benefits, and can complement modern medicine.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 28,
+        "total_tokens": 89
+      },
+      "latency_seconds": 0.29,
+      "error": null
+    },
+    {
+      "question_id": 28,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Следует ли ценить традиционную медицину так же, как современную?",
+      "answer": "Да, традиционную медицину стоит ценить, поскольку она часто включает в себя проверенные временем методы лечения и природные средства, которые могут дополнить современную медицину. Однако важно подходить к традиционной медицине с критическим и научным взглядом, чтобы обеспечить безопасность и эффективность лечения.",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 73,
+        "total_tokens": 142
+      },
+      "latency_seconds": 0.454,
+      "error": null
+    },
+    {
+      "question_id": 28,
+      "category": "opinion",
+      "language": "zh",
+      "question": "传统医学是否应该得到与现代医学一样的重视？",
+      "answer": "是的，传统医学在某些情况下可以作为现代医学的有用补充。然而，必须以批判和证据为基础的方式对待传统医学，既要认识到其潜在的益处，也要意识到其局限性和潜在风险。",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 64,
+        "total_tokens": 128
+      },
+      "latency_seconds": 0.545,
+      "error": null
+    },
+    {
+      "question_id": 28,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Дәстүрлі медицина қазіргі медицинамен тең бағалануы керек пе?",
+      "answer": "Дәстүрлі медицина мен қазіргі медицина әртүрлі, бірақ олардың әрқайсысының өзіндік артықшылықтары мен кемшіліктері бар. Дәстүрлі медицина көптеген жағдайларда натуральдық және қарапайым әдістерді ұсынады, ал қазіргі медицина жаңа технологиялар мен зерттеулерге сүйенеді. Олардың әрқайсысының маңызы бар, бірақ оларды тең бағалау керек емес, өйткені олар әртүрлі мақсаттарға арналған.",
+      "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 252,
+        "total_tokens": 337
+      },
+      "latency_seconds": 1.643,
+      "error": null
+    },
+    {
+      "question_id": 29,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is it acceptable for governments to censor the internet?",
+      "answer": "No, it's generally not acceptable for governments to censor the internet, as it can infringe on freedom of speech and expression. However, some governments may argue that censorship is necessary for national security, public safety, or to protect citizens from harmful content.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 52,
+        "total_tokens": 112
+      },
+      "latency_seconds": 0.374,
+      "error": null
+    },
+    {
+      "question_id": 29,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Допустимо ли для правительств цензурировать интернет?",
+      "answer": "Нет, цензура интернета правительствами не всегда допустима. Она может нарушать права граждан на свободу информации и выражения мнений. Однако в некоторых случаях цензура может быть оправдана для защиты общества от вредной или незаконной информации.",
+      "usage": {
+        "prompt_tokens": 66,
+        "completion_tokens": 63,
+        "total_tokens": 129
+      },
+      "latency_seconds": 0.456,
+      "error": null
+    },
+    {
+      "question_id": 29,
+      "category": "opinion",
+      "language": "zh",
+      "question": "政府审查互联网是否可以接受？",
+      "answer": "不，政府审查互联网通常不被认为是可以接受的，因为它限制了言论自由、获取信息和表达思想的权利。",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 33,
+        "total_tokens": 91
+      },
+      "latency_seconds": 0.414,
+      "error": null
+    },
+    {
+      "question_id": 29,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Үкіметтер интернетті цензуралауы қолайлы ма?",
+      "answer": "Жалпы алғанда, үкіметтердің интернетті цензуралауы әдетте қолайлы емес, өйткені бұл еркін ақпарат алуға және пікір білдіруге құқықты шектейді. Бірақ, кейбір жағдайларда, мысалы, терроризмді қолдау немесе жас балаларға зиянды контентті таратуға қарсы күресу үшін цензура қолданылуы мүмкін.",
+      "usage": {
+        "prompt_tokens": 70,
+        "completion_tokens": 177,
+        "total_tokens": 247
+      },
+      "latency_seconds": 1.388,
+      "error": null
+    },
+    {
+      "question_id": 30,
+      "category": "opinion",
+      "language": "en",
+      "question": "Are standardized tests a good way to measure student ability?",
+      "answer": "No, standardized tests are not a comprehensive way to measure student ability, as they can be limited by biases, cultural influences, and narrow scope, and may not accurately reflect a student's knowledge, skills, or potential.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 45,
+        "total_tokens": 106
+      },
+      "latency_seconds": 0.365,
+      "error": null
+    },
+    {
+      "question_id": 30,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Являются ли стандартизированные тесты хорошим способом оценки способностей учеников?",
+      "answer": "Нет, стандартизированные тесты не всегда являются хорошим способом оценки способностей учеников, поскольку они могут не учитывать индивидуальные различия и стили обучения.",
+      "usage": {
+        "prompt_tokens": 73,
+        "completion_tokens": 45,
+        "total_tokens": 118
+      },
+      "latency_seconds": 0.301,
+      "error": null
+    },
+    {
+      "question_id": 30,
+      "category": "opinion",
+      "language": "zh",
+      "question": "标准化考试是衡量学生能力的好方法吗？",
+      "answer": "标准化考试并不是衡量学生能力的最佳方法，因为它无法全面反映学生的能力和知识。",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 25,
+        "total_tokens": 88
+      },
+      "latency_seconds": 0.326,
+      "error": null
+    },
+    {
+      "question_id": 30,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Стандартталған тесттер оқушылардың қабілетін өлшеудің жақсы тәсілі ме?",
+      "answer": "Жақсы тәсіл емес, өйткені олар оқушылардың барлық қабілеттерін өлшей алмайды.",
+      "usage": {
+        "prompt_tokens": 96,
+        "completion_tokens": 54,
+        "total_tokens": 150
+      },
+      "latency_seconds": 0.51,
+      "error": null
+    },
+    {
+      "question_id": 31,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you wear warm clothes in winter?",
+      "answer": "Yes.",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 3,
+        "total_tokens": 61
+      },
+      "latency_seconds": 0.305,
+      "error": null
+    },
+    {
+      "question_id": 31,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Нужно ли одеваться тепло зимой?",
+      "answer": "Да, зимой рекомендуется одеваться тепло, чтобы защитить себя от холода и предотвратить заболевания, связанные с низкими температурами.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 33,
+        "total_tokens": 94
+      },
+      "latency_seconds": 0.315,
+      "error": null
+    },
+    {
+      "question_id": 31,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "冬天应该穿暖和的衣服吗？",
+      "answer": "是的，冬天应该穿暖和的衣服。",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 13,
+        "total_tokens": 73
+      },
+      "latency_seconds": 0.316,
+      "error": null
+    },
+    {
+      "question_id": 31,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Қыста жылы киім кию керек пе?",
+      "answer": "Иә, қыста жылы киім кию керек, өйткені суық ауа денсаулыққа зиян келтіреді.",
+      "usage": {
+        "prompt_tokens": 66,
+        "completion_tokens": 51,
+        "total_tokens": 117
+      },
+      "latency_seconds": 0.509,
+      "error": null
+    },
+    {
+      "question_id": 32,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it safe to drink water from a puddle?",
+      "answer": "No, it's not safe to drink water from a puddle. Puddle water can contain contaminants like bacteria, viruses, and other pollutants that can cause illness.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 34,
+        "total_tokens": 95
+      },
+      "latency_seconds": 0.312,
+      "error": null
+    },
+    {
+      "question_id": 32,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Безопасно ли пить воду из лужи?",
+      "answer": "Нет, не безопасно. Вода из лужи может содержать бактерии, вирусы и другие загрязнения, которые могут вызвать заболевания.",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 36,
+        "total_tokens": 99
+      },
+      "latency_seconds": 0.413,
+      "error": null
+    },
+    {
+      "question_id": 32,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "喝水坑里的水安全吗？",
+      "answer": "不安全。水坑里的水可能含有细菌、病毒和其他污染物，可能会引起疾病。",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 30,
+        "total_tokens": 89
+      },
+      "latency_seconds": 0.314,
+      "error": null
+    },
+    {
+      "question_id": 32,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Шалшықтағы суды ішу қауіпсіз бе?",
+      "answer": "Шалшықтағы суды ішу әдетте қауіпсіз деп саналмайды. Шалшықтағы су көбінесе жер асты суларымен және жергілікті ауылшаруашылық немесе өнеркәсіптік қалдықтармен ластануы мүмкін. Сондықтан, шалшықтағы суды ішу алдында оның ластану деңгейін тексеру және керек болса, тазарту керек.",
+      "usage": {
+        "prompt_tokens": 74,
+        "completion_tokens": 172,
+        "total_tokens": 246
+      },
+      "latency_seconds": 1.199,
+      "error": null
+    },
+    {
+      "question_id": 33,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If you drop a glass on a hard floor, what will likely happen?",
+      "answer": "The glass will likely break or shatter into pieces.",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 12,
+        "total_tokens": 77
+      },
+      "latency_seconds": 0.341,
+      "error": null
+    },
+    {
+      "question_id": 33,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если уронить стакан на твёрдый пол, что произойдёт?",
+      "answer": "Стакан разобьётся.",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 10,
+        "total_tokens": 79
+      },
+      "latency_seconds": 0.207,
+      "error": null
+    },
+    {
+      "question_id": 33,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果你把玻璃杯掉到硬地板上，会发生什么？",
+      "answer": "玻璃杯可能会破碎或碎成碎片。",
+      "usage": {
+        "prompt_tokens": 66,
+        "completion_tokens": 13,
+        "total_tokens": 79
+      },
+      "latency_seconds": 0.226,
+      "error": null
+    },
+    {
+      "question_id": 33,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер шыны стақанды қатты еденге түсірсеңіз, не болады?",
+      "answer": "Шыны стақан қатты еденге түсіп, сынып кетуі мүмкін.",
+      "usage": {
+        "prompt_tokens": 83,
+        "completion_tokens": 33,
+        "total_tokens": 116
+      },
+      "latency_seconds": 0.397,
+      "error": null
+    },
+    {
+      "question_id": 34,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it a good idea to study the night before an important exam?",
+      "answer": "No, it's generally not recommended. Last-minute studying can lead to poor retention and increased stress. It's better to study consistently and get a good night's sleep before the exam.",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 38,
+        "total_tokens": 102
+      },
+      "latency_seconds": 0.324,
+      "error": null
+    },
+    {
+      "question_id": 34,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Хорошая ли идея учиться ночью перед важным экзаменом?",
+      "answer": "Нет, это не хорошая идея. Лучше учиться регулярно и высыпаться перед экзаменом, чтобы сохранить концентрацию и память.",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 38,
+        "total_tokens": 107
+      },
+      "latency_seconds": 0.371,
+      "error": null
+    },
+    {
+      "question_id": 34,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在重要考试前一晚学习是个好主意吗？",
+      "answer": "不，通常不是。虽然可能需要进行最后一刻的复习，但在重要考试前一晚学习可能会导致疲劳、压力和信息保留不良。提前开始学习并获得足够的睡眠通常会带来更好的结果。",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 58,
+        "total_tokens": 121
+      },
+      "latency_seconds": 0.507,
+      "error": null
+    },
+    {
+      "question_id": 34,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Маңызды емтиханның алдындағы түні оқу жақсы идея ма?",
+      "answer": "Жақсы идея емес. есте сақтау қабілеті нашарлайды және әсіресе, көп уақыт бойы ойлағаннан кейін, есте сақтау қабілеті төмендейді. есте сақтау қабілетін жақсарту үшін, жаттығумен қатар, жеткілікті уақытқа дем алу керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілетін жақсарту үшін, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілетінің нашарлауын болдырмау үшін, есте сақтау қабілетін жақсартуға көп уақыт керек. есте сақтау қабілеті жақсартылған кезде, есте сақтау қабілеті",
+      "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 1024,
+        "total_tokens": 1111
+      },
+      "latency_seconds": 3.849,
+      "error": null
+    },
+    {
+      "question_id": 35,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you look both ways before crossing the street?",
+      "answer": "Yes.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 3,
+        "total_tokens": 63
+      },
+      "latency_seconds": 0.303,
+      "error": null
+    },
+    {
+      "question_id": 35,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Нужно ли смотреть по сторонам, прежде чем переходить дорогу?",
+      "answer": "Да, необходимо смотреть по сторонам, прежде чем переходить дорогу, чтобы убедиться в отсутствии приближающихся транспортных средств и обеспечить свою безопасность.",
+      "usage": {
+        "prompt_tokens": 67,
+        "completion_tokens": 39,
+        "total_tokens": 106
+      },
+      "latency_seconds": 0.408,
+      "error": null
+    },
+    {
+      "question_id": 35,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "过马路前应该左右看看吗？",
+      "answer": "是的，过马路前应该左右看看，确保安全。",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 16,
+        "total_tokens": 75
+      },
+      "latency_seconds": 0.193,
+      "error": null
+    },
+    {
+      "question_id": 35,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Көшені кесіп өтер алдында екі жаққа қарау керек пе?",
+      "answer": "Иә, көшені кесіп өтер алдыңызда екі жаққа қарау керек.",
+      "usage": {
+        "prompt_tokens": 84,
+        "completion_tokens": 40,
+        "total_tokens": 124
+      },
+      "latency_seconds": 0.341,
+      "error": null
+    },
+    {
+      "question_id": 36,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Can a person survive without sleeping for a month?",
+      "answer": "No, it is not possible for a person to survive without sleeping for a month. Prolonged sleep deprivation can lead to serious physical and mental health problems, and eventually, death. The human body needs sleep to function properly, and going without sleep for an extended period can cause organ damage, hallucinations, and even death. The longest recorded time without sleep is around 264.4 hours (11 days), and even that was extremely detrimental to the person's health.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 97,
+        "total_tokens": 157
+      },
+      "latency_seconds": 0.496,
+      "error": null
+    },
+    {
+      "question_id": 36,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Может ли человек выжить без сна в течение месяца?",
+      "answer": "Нет, человек не может выжить без сна в течение месяца. Продолжительное лишение сна может привести к серьёзным проблемам со здоровьем и даже смерти.",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 39,
+        "total_tokens": 102
+      },
+      "latency_seconds": 0.332,
+      "error": null
+    },
+    {
+      "question_id": 36,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "一个人能一个月不睡觉还活着吗？",
+      "answer": "不，一个人不可能一个月不睡觉还活着。长时间不睡觉会导致严重的身体和精神健康问题，最终威胁生命。",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 37,
+        "total_tokens": 99
+      },
+      "latency_seconds": 0.345,
+      "error": null
+    },
+    {
+      "question_id": 36,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Адам бір ай ұйықтамай өмір сүре ала ма?",
+      "answer": "Жоқ, адам бір ай бойы ұйықтамай өмір сүре алмайды. Ұйықтау - адам организмінің маңызды функциясы, ол денсаулық пен жақсы жұмыс істеу үшін қажет. Ұйықтамау адамның физикалық және психикалық денсаулығына зиянды әсер етеді.",
+      "usage": {
+        "prompt_tokens": 78,
+        "completion_tokens": 142,
+        "total_tokens": 220
+      },
+      "latency_seconds": 0.983,
+      "error": null
+    },
+    {
+      "question_id": 37,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If you plant a seed and water it, what will eventually happen?",
+      "answer": "It will grow into a plant.",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 8,
+        "total_tokens": 72
+      },
+      "latency_seconds": 0.333,
+      "error": null
+    },
+    {
+      "question_id": 37,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если посадить семя и поливать его, что в итоге произойдёт?",
+      "answer": "Семя прорастёт и вырастет в растение.",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 14,
+        "total_tokens": 83
+      },
+      "latency_seconds": 0.394,
+      "error": null
+    },
+    {
+      "question_id": 37,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果你种下一颗种子并浇水，最终会怎样？",
+      "answer": "它会生长成一株植物。",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 10,
+        "total_tokens": 79
+      },
+      "latency_seconds": 0.204,
+      "error": null
+    },
+    {
+      "question_id": 37,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер тұқым отырғызып, суарсаңыз, ақырында не болады?",
+      "answer": "Тұқым отырғызып, суарғаннан кейін, ол өсіп, өз түріне сай өсімдікке айналады.",
+      "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 58,
+        "total_tokens": 146
+      },
+      "latency_seconds": 0.478,
+      "error": null
+    },
+    {
+      "question_id": 38,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it polite to talk loudly on your phone in a library?",
+      "answer": "No, it's not polite. Libraries are typically quiet spaces, and loud phone conversations can be disruptive to others. It's best to take calls outside or keep your voice very low.",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 38,
+        "total_tokens": 101
+      },
+      "latency_seconds": 0.463,
+      "error": null
+    },
+    {
+      "question_id": 38,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Вежливо ли громко разговаривать по телефону в библиотеке?",
+      "answer": "Нет, обычно это считается невежливым, так как может помешать другим посетителям библиотеки.",
+      "usage": {
+        "prompt_tokens": 70,
+        "completion_tokens": 29,
+        "total_tokens": 99
+      },
+      "latency_seconds": 0.642,
+      "error": null
+    },
+    {
+      "question_id": 38,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在图书馆大声打电话礼貌吗？",
+      "answer": "不，图书馆是安静的地方，大声打电话被认为是不礼貌的。",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 21,
+        "total_tokens": 83
+      },
+      "latency_seconds": 0.382,
+      "error": null
+    },
+    {
+      "question_id": 38,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Кітапханада телефонмен қатты сөйлесу сыпайы ма?",
+      "answer": "Жоқ, кітапханада телефонмен қатты сөйлесу сыпайы емес, өйткені бұл басқа оқыған адамдарды бұзып жібереді.",
+      "usage": {
+        "prompt_tokens": 76,
+        "completion_tokens": 71,
+        "total_tokens": 147
+      },
+      "latency_seconds": 0.531,
+      "error": null
+    },
+    {
+      "question_id": 39,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you put metal in a microwave?",
+      "answer": "No, you should not put metal in a microwave. It can cause sparks, start a fire, or damage the microwave.",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 26,
+        "total_tokens": 84
+      },
+      "latency_seconds": 0.308,
+      "error": null
+    },
+    {
+      "question_id": 39,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Можно ли ставить металл в микроволновку?",
+      "answer": "Нет, не рекомендуется ставить металл в микроволновку, так как это может вызвать искры и даже пожар.",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 30,
+        "total_tokens": 95
+      },
+      "latency_seconds": 0.25,
+      "error": null
+    },
+    {
+      "question_id": 39,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "金属可以放进微波炉吗？",
+      "answer": "不，金属不能放进微波炉，因为它可能会引起火花甚至火灾。",
+      "usage": {
+        "prompt_tokens": 59,
+        "completion_tokens": 23,
+        "total_tokens": 82
+      },
+      "latency_seconds": 0.27,
+      "error": null
+    },
+    {
+      "question_id": 39,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Металды микротолқынды пешке салуға бола ма?",
+      "answer": "Жоқ, металды микротолқынды пешке салуға болмайды. Металл микротолқындардың әсерінен жылу бөліп, от алдыруы мүмкін.",
+      "usage": {
+        "prompt_tokens": 74,
+        "completion_tokens": 69,
+        "total_tokens": 143
+      },
+      "latency_seconds": 0.575,
+      "error": null
+    },
+    {
+      "question_id": 40,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If it is raining, should you carry an umbrella?",
+      "answer": "Yes.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 3,
+        "total_tokens": 64
+      },
+      "latency_seconds": 0.226,
+      "error": null
+    },
+    {
+      "question_id": 40,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если идёт дождь, стоит ли взять зонт?",
+      "answer": "Да, если идёт дождь, взять зонт будет хорошей идеей, чтобы оставаться сухим.",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 27,
+        "total_tokens": 91
+      },
+      "latency_seconds": 0.336,
+      "error": null
+    },
+    {
+      "question_id": 40,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果下雨了，应该带伞吗？",
+      "answer": "是的，下雨时带伞可以帮助你保持干燥。",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 18,
+        "total_tokens": 79
+      },
+      "latency_seconds": 0.308,
+      "error": null
+    },
+    {
+      "question_id": 40,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер жаңбыр жауып тұрса, қолшатыр алу керек пе?",
+      "answer": "Иә, жаңбыр жауып тұрса, қолшатыр алу керек.",
+      "usage": {
+        "prompt_tokens": 82,
+        "completion_tokens": 32,
+        "total_tokens": 114
+      },
+      "latency_seconds": 0.318,
+      "error": null
+    },
+    {
+      "question_id": 41,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it appropriate to give a clock as a gift in Chinese culture?",
+      "answer": "No, it's not appropriate to give a clock as a gift in Chinese culture, as the word for \"clock\" is a homophone for \"funeral\" in Mandarin, and is considered a symbol of bad luck and death.",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 48,
+        "total_tokens": 112
+      },
+      "latency_seconds": 0.508,
+      "error": null
+    },
+    {
+      "question_id": 41,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Уместно ли дарить часы в китайской культуре?",
+      "answer": "Нет, в китайской культуре дарить часы неуместно, так как слово \"часы\" звучит похоже на слово \"похороны\".",
+      "usage": {
+        "prompt_tokens": 67,
+        "completion_tokens": 41,
+        "total_tokens": 108
+      },
+      "latency_seconds": 0.412,
+      "error": null
+    },
+    {
+      "question_id": 41,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在中国文化中送钟表作为礼物合适吗？",
+      "answer": "不合适，因为“钟”与“丧”谐音，可能被认为是不吉利的。",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 25,
+        "total_tokens": 89
+      },
+      "latency_seconds": 0.42,
+      "error": null
+    },
+    {
+      "question_id": 41,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Қытай мәдениетінде сағат сыйлыққа беру орынды ма?",
+      "answer": "Қытай мәдениетінде сағат сыйлыққа беру әдеттегі және орынды болып табылмайды, өйткені сағаттың сөзі \"өлім\" сөзіне әсер етеді.",
+      "usage": {
+        "prompt_tokens": 83,
+        "completion_tokens": 90,
+        "total_tokens": 173
+      },
+      "latency_seconds": 0.623,
+      "error": null
+    },
+    {
+      "question_id": 42,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you eat food that has been left out at room temperature for 24 hours?",
+      "answer": "No, it's not safe to eat food that has been left out at room temperature for 24 hours. Bacteria can multiply rapidly, and eating spoiled food can cause food poisoning. It's best to discard perishable food that has been left out for an extended period.",
+      "usage": {
+        "prompt_tokens": 67,
+        "completion_tokens": 56,
+        "total_tokens": 123
+      },
+      "latency_seconds": 0.415,
+      "error": null
+    },
+    {
+      "question_id": 42,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Можно ли есть еду, которая простояла при комнатной температуре 24 часа?",
+      "answer": "Нет, не рекомендуется есть еду, которая простояла при комнатной температуре 24 часа, так как это может привести к порче и росту бактерий, вызывающих пищевое отравление.",
+      "usage": {
+        "prompt_tokens": 73,
+        "completion_tokens": 49,
+        "total_tokens": 122
+      },
+      "latency_seconds": 0.308,
+      "error": null
+    },
+    {
+      "question_id": 42,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在室温下放置24小时的食物还能吃吗？",
+      "answer": "不建议这样做，因为在室温下放置24小时的食物可能已经变质，存在食源性疾病的风险。",
+      "usage": {
+        "prompt_tokens": 66,
+        "completion_tokens": 31,
+        "total_tokens": 97
+      },
+      "latency_seconds": 0.309,
+      "error": null
+    },
+    {
+      "question_id": 42,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Бөлме температурасында 24 сағат тұрған тағамды жеуге бола ма?",
+      "answer": "Тағамдық өнімдердің сақтау мерзімі әр түрлі болады. Бөлме температурасында 24 сағат тұрған тағамды жеуге болады, бірақ оның сапасы мен қауіпсіздігіне көңіл бөлу керек. Егер тағам өнімі дұрыс түрде әзірленіп, тазалықты сақтаса, онда оны 24 сағат ішінде жеуге болады. Алайда, егер тағам өнімі әлсіз сақталса, ылғалды ортаға түссе, онда оны жеуге болмайды, өйткені ол адам аузына жұғуы мүмкін. Сондықтан, тағам өнімдерін сақтау кезінде олардың сапасын бақылау керек.",
+      "usage": {
+        "prompt_tokens": 89,
+        "completion_tokens": 313,
+        "total_tokens": 402
+      },
+      "latency_seconds": 2.058,
+      "error": null
+    },
+    {
+      "question_id": 43,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it wise to share your passwords with friends?",
+      "answer": "No, it's not wise to share your passwords with friends. This can compromise your personal security and put your accounts at risk of unauthorized access.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 30,
+        "total_tokens": 90
+      },
+      "latency_seconds": 0.253,
+      "error": null
+    },
+    {
+      "question_id": 43,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Разумно ли делиться своими паролями с друзьями?",
+      "answer": "Нет, не рекомендуется делиться своими паролями с друзьями или кем-либо другим, поскольку это может поставить под угрозу безопасность вашей личной информации и конфиденциальность.",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 46,
+        "total_tokens": 111
+      },
+      "latency_seconds": 0.349,
+      "error": null
+    },
+    {
+      "question_id": 43,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "与朋友分享密码明智吗？",
+      "answer": "不，分享密码通常是不明智的，因为这会损害你的账户安全和隐私。",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 23,
+        "total_tokens": 81
+      },
+      "latency_seconds": 0.426,
+      "error": null
+    },
+    {
+      "question_id": 43,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Құпиясөздеріңізді достарыңызбен бөлісу ақылды шешім бе?",
+      "answer": "Жоқ, өйткені достарыңыз сенен басқа адамдармен де бөлісе алады.",
+      "usage": {
+        "prompt_tokens": 90,
+        "completion_tokens": 43,
+        "total_tokens": 133
+      },
+      "latency_seconds": 0.518,
+      "error": null
+    },
+    {
+      "question_id": 44,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If someone is choking, should you help them?",
+      "answer": "Yes, if someone is choking, you should help them by performing the Heimlich maneuver or back blows, and calling for emergency assistance if necessary.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 31,
+        "total_tokens": 91
+      },
+      "latency_seconds": 0.268,
+      "error": null
+    },
+    {
+      "question_id": 44,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если кто-то подавился, нужно ли ему помочь?",
+      "answer": "Да, если кто-то подавился, ему необходимо срочно помочь. Если человек не может кашлять или говорить, необходимо вызвать скорую помощь и выполнить прием Хеймлиха, чтобы помочь очистить дыхательные пути.",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 54,
+        "total_tokens": 116
+      },
+      "latency_seconds": 0.463,
+      "error": null
+    },
+    {
+      "question_id": 44,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果有人噎住了，你应该帮助他们吗？",
+      "answer": "是的，如果有人噎住了，你应该帮助他们。立即采取行动可以挽救他们的生命。鼓励他们咳嗽，如果不起作用，可以尝试背部拍击或海姆立克急救法。",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 55,
+        "total_tokens": 117
+      },
+      "latency_seconds": 0.432,
+      "error": null
+    },
+    {
+      "question_id": 44,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер біреу тұншығып жатса, оған көмектесу керек пе?",
+      "answer": "Иә, тұншығып жатқан адамға көмектесу керек. Ол үшін оның жағдайын бақылау, дем алуды қалпына келтіру және қажет болса, медициналық көмек шакыру керек.",
+      "usage": {
+        "prompt_tokens": 85,
+        "completion_tokens": 102,
+        "total_tokens": 187
+      },
+      "latency_seconds": 0.809,
+      "error": null
+    },
+    {
+      "question_id": 45,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it normal to feel nervous before a job interview?",
+      "answer": "Yes, it's completely normal to feel nervous before a job interview. It's a natural response to a high-stakes situation.",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 27,
+        "total_tokens": 88
+      },
+      "latency_seconds": 0.26,
+      "error": null
+    },
+    {
+      "question_id": 45,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Нормально ли волноваться перед собеседованием?",
+      "answer": "Да, это нормально. Нервозность перед собеседованием - обычное явление.",
+      "usage": {
+        "prompt_tokens": 64,
+        "completion_tokens": 24,
+        "total_tokens": 88
+      },
+      "latency_seconds": 0.248,
+      "error": null
+    },
+    {
+      "question_id": 45,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "面试前感到紧张是正常的吗？",
+      "answer": "是的，面试前感到紧张是正常的。",
+      "usage": {
+        "prompt_tokens": 61,
+        "completion_tokens": 14,
+        "total_tokens": 75
+      },
+      "latency_seconds": 0.323,
+      "error": null
+    },
+    {
+      "question_id": 45,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Жұмысқа сұхбат алдында уайымдау қалыпты ма?",
+      "answer": "Иә, жұмысқа сұхбат алдында уайымдау қалыпты. Бұл көптеген адамдарға тән құбылыс.",
+      "usage": {
+        "prompt_tokens": 80,
+        "completion_tokens": 64,
+        "total_tokens": 144
+      },
+      "latency_seconds": 0.498,
+      "error": null
+    },
+    {
+      "question_id": 46,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you wash your hands before eating?",
+      "answer": "Yes, it's highly recommended to wash your hands before eating to prevent the spread of germs and illness.",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 23,
+        "total_tokens": 81
+      },
+      "latency_seconds": 0.324,
+      "error": null
+    },
+    {
+      "question_id": 46,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Нужно ли мыть руки перед едой?",
+      "answer": "Да, нужно.",
+      "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 6,
+        "total_tokens": 68
+      },
+      "latency_seconds": 0.181,
+      "error": null
+    },
+    {
+      "question_id": 46,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "吃饭前应该洗手吗？",
+      "answer": "是的，吃饭前应该洗手，以保持卫生和预防疾病。",
+      "usage": {
+        "prompt_tokens": 58,
+        "completion_tokens": 19,
+        "total_tokens": 77
+      },
+      "latency_seconds": 0.211,
+      "error": null
+    },
+    {
+      "question_id": 46,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Тамақ ішер алдында қолды жуу керек пе?",
+      "answer": "Иә, тамақ ішер алдыңда қолды жуу керек.",
+      "usage": {
+        "prompt_tokens": 73,
+        "completion_tokens": 27,
+        "total_tokens": 100
+      },
+      "latency_seconds": 0.44,
+      "error": null
+    },
+    {
+      "question_id": 47,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Can you trust everything you read on the internet?",
+      "answer": "No, you cannot trust everything you read on the internet. It's essential to verify information through reputable sources to ensure accuracy.",
+      "usage": {
+        "prompt_tokens": 60,
+        "completion_tokens": 26,
+        "total_tokens": 86
+      },
+      "latency_seconds": 0.31,
+      "error": null
+    },
+    {
+      "question_id": 47,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Можно ли доверять всему, что читаешь в интернете?",
+      "answer": "Нет, не всему. Интернет содержит как достоверную, так и недостоверную информацию. Важно проверять источники и оценивать достоверность информации.",
+      "usage": {
+        "prompt_tokens": 69,
+        "completion_tokens": 45,
+        "total_tokens": 114
+      },
+      "latency_seconds": 0.414,
+      "error": null
+    },
+    {
+      "question_id": 47,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "你能相信你在网上读到的一切吗？",
+      "answer": "不，不能相信你在网上读到的一切。网上信息可能不准确、过时或有偏见，验证信息来源和可靠性至关重要。",
+      "usage": {
+        "prompt_tokens": 63,
+        "completion_tokens": 40,
+        "total_tokens": 103
+      },
+      "latency_seconds": 0.414,
+      "error": null
+    },
+    {
+      "question_id": 47,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Интернетте оқыған нәрсенің бәріне сене аласыз ба?",
+      "answer": "Жоқ, интернетте оқыған нәрсенің бәріне сенуге болмайды. Өйткені интернетте көптеген дұрыс емес және жалған ақпараттар бар. Сондықтан, ақпараттың дұрыстығын тексеруге болады.",
+      "usage": {
+        "prompt_tokens": 82,
+        "completion_tokens": 111,
+        "total_tokens": 193
+      },
+      "latency_seconds": 0.822,
+      "error": null
+    },
+    {
+      "question_id": 48,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it respectful to remove your shoes before entering someone's home in Japan?",
+      "answer": "Yes, it is considered respectful and customary to remove your shoes before entering a Japanese home.",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 19,
+        "total_tokens": 84
+      },
+      "latency_seconds": 0.253,
+      "error": null
+    },
+    {
+      "question_id": 48,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Уважительно ли снимать обувь перед входом в чужой дом в Японии?",
+      "answer": "Да, в Японии считается уважительным снять обувь перед входом в чужой дом.",
+      "usage": {
+        "prompt_tokens": 71,
+        "completion_tokens": 25,
+        "total_tokens": 96
+      },
+      "latency_seconds": 0.274,
+      "error": null
+    },
+    {
+      "question_id": 48,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在日本进入别人家之前脱鞋是礼貌的吗？",
+      "answer": "是的，在日本进入别人家之前脱鞋是一种常见的礼貌习惯。",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 23,
+        "total_tokens": 88
+      },
+      "latency_seconds": 0.259,
+      "error": null
+    },
+    {
+      "question_id": 48,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Жапонияда біреудің үйіне кірер алдында аяқ киімді шешу сыйлы ма?",
+      "answer": "Иә, Жапонияда біреудің үйіне кірер алдында аяқ киімді шешу сыйлы әдет. Бұл жапон мәдениетінің бір бөлімі болып табылады және үй иесіне құрмет көрсету ретінде қаралады.",
+      "usage": {
+        "prompt_tokens": 88,
+        "completion_tokens": 110,
+        "total_tokens": 198
+      },
+      "latency_seconds": 0.871,
+      "error": null
+    },
+    {
+      "question_id": 49,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If you see smoke coming from a building, should you call emergency services?",
+      "answer": "Yes.",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 3,
+        "total_tokens": 68
+      },
+      "latency_seconds": 0.178,
+      "error": null
+    },
+    {
+      "question_id": 49,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если вы видите дым из здания, нужно ли звонить в экстренные службы?",
+      "answer": "Да, если вы видите дым из здания, необходимо сразу же звонить в экстренные службы.",
+      "usage": {
+        "prompt_tokens": 72,
+        "completion_tokens": 27,
+        "total_tokens": 99
+      },
+      "latency_seconds": 0.343,
+      "error": null
+    },
+    {
+      "question_id": 49,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果你看到建筑物冒烟，应该打急救电话吗？",
+      "answer": "是的，如果你看到建筑物冒烟，打急救电话是个好主意，因为这可能是火灾的迹象。",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 30,
+        "total_tokens": 95
+      },
+      "latency_seconds": 0.313,
+      "error": null
+    },
+    {
+      "question_id": 49,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер ғимараттан түтін шығып жатқанын көрсеңіз, құтқару қызметіне қоңырау шалу керек пе?",
+      "answer": "Иә, қоңырау шалу керек.",
+      "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 18,
+        "total_tokens": 133
+      },
+      "latency_seconds": 0.233,
+      "error": null
+    },
+    {
+      "question_id": 50,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it a good idea to invest all your savings in a single stock?",
+      "answer": "No, it's not a good idea. Investing all your savings in a single stock is highly risky and can lead to significant losses if the stock performs poorly. It's generally recommended to diversify your investments to minimize risk.",
+      "usage": {
+        "prompt_tokens": 65,
+        "completion_tokens": 46,
+        "total_tokens": 111
+      },
+      "latency_seconds": 0.282,
+      "error": null
+    },
+    {
+      "question_id": 50,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Хорошая ли идея вложить все сбережения в одну акцию?",
+      "answer": "Нет, это не хорошая идея. Вложение всех сбережений в одну акцию может быть слишком рискованным и может привести к значительным потерям, если акция упадет. Лучше диверсифицировать инвестиции, распределяя их между разными классами активов и компаниями, чтобы минимизировать риск.",
+      "usage": {
+        "prompt_tokens": 68,
+        "completion_tokens": 81,
+        "total_tokens": 149
+      },
+      "latency_seconds": 0.482,
+      "error": null
+    },
+    {
+      "question_id": 50,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "把所有积蓄都投资在一只股票上是个好主意吗？",
+      "answer": "不，投资所有积蓄于一只股票并不是一个好主意，因为这会使您的投资组合面临过高的风险。",
+      "usage": {
+        "prompt_tokens": 68,
+        "completion_tokens": 33,
+        "total_tokens": 101
+      },
+      "latency_seconds": 0.357,
+      "error": null
+    },
+    {
+      "question_id": 50,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Барлық жинаған ақшаңызды бір акцияға салу жақсы идея ма?",
+      "answer": "Жоқ, бүкіл ақшаны бір акцияға салудың әлеуметтік және инвестициялық жағдайлары бар. Бұл әдіс көп мүмкіндіктерге әкелуі мүмкін, бірақ сонымен қатар үлкен қауіптерді де жүктейді. \n\nБарлық ақшаны бір акцияға салудың артықшылықтары:\n\n1. **Мүмкіндіктің өсуі**: Егер акция өте жоғары өсетін болса, онда барлық ақшаны оған салсаңыз, өте үлкен пайда ала аласыз.\n2. **Қарапайымдылық**: Бір акцияға салсаңыз, портфельді басқару оңай болады, өйткені оны басқаруға көп уақыт және күш жұмсалмайды.\n\nБарлық ақшаны бір акцияға салудың кемшіліктері:\n\n1. **Қауіптілік**: Егер акцияның бағасы төмендесе, онда барлық ақшаның жоғалуына әкелуі мүмкін.\n2. **Диверсификацияның жоқтығы**: Бір акцияға салсаңыз, басқа акциялардағы мүмкіндіктерді пайдалана алмайсыз.\n3. **Финанстық тұрақтылықтың жоғалуы**: Барлық ақшаны бір акцияға салсаңыз, финанстық тұрақтылығыңызды жоғалтуыңыз мүмкін.\n\nБарлық ақшаны бір акцияға салудың орнына, диверсификацияланған инвестициялық стратегиясын қолдануға болады. Бұл стратегия бойынша, ақшаны бірнеше акцияларға, облигацияларға, фондтарға және басқа да активтерге бөлу керек. Бұл әдіс қауіптілікті азайтып, пайданың өсуін қамтамасыз етеді.",
+      "usage": {
+        "prompt_tokens": 87,
+        "completion_tokens": 754,
+        "total_tokens": 841
+      },
+      "latency_seconds": 4.473,
+      "error": null
+    }
+  ]
+}

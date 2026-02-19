@@ -1,0 +1,2007 @@
+{
+  "model": "Jais 30B (MBZUAI)",
+  "model_id": "jais-30b-chat",
+  "provider": "manual",
+  "responses": [
+    {
+      "question_id": 1,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the capital of Kazakhstan?",
+      "answer": "The capital of Kazakhstan is Nur-Sultan. This city was formerly known as أستانا and is located in the north-central part of the country. It is a major political and economic center, housing government buildings and various cultural institutions.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 2,
+      "category": "factual",
+      "language": "en",
+      "question": "Who invented the telephone?",
+      "answer": "The telephone was invented by Alexander Graham Bell. While there were other inventors working on similar technology, Bell is credited with patenting the first practical device for voice communication. His invention revolutionized long-distance communication and became a staple of modern life.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 3,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the largest country in the world by area?",
+      "answer": "The largest country in the world by area is Russia. It spans Eastern Europe and northern Asia, covering a vast territory that stretches across 11 time zones. Russia's landmass is approximately 1.8 times larger than the next largest country, Canada.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 4,
+      "category": "factual",
+      "language": "en",
+      "question": "When did World War II end?",
+      "answer": "World War II officially ended in 1945. The surrender of Japan in September of that year marked the conclusion of the conflict. This global war involved most of the world's nations and resulted in significant geopolitical changes.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 5,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the boiling point of water at sea level?",
+      "answer": "The boiling point of water at sea level is 100 degrees Celsius. This is the temperature at which water transitions from a liquid to a gaseous state. The boiling point can vary slightly depending on atmospheric pressure, but 100°C is the standard value.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 6,
+      "category": "factual",
+      "language": "en",
+      "question": "Who wrote 'War and Peace'?",
+      "answer": "'War and Peace' was written by Leo Tolstoy. This epic novel, a masterpiece of world literature, explores themes of war, peace, love, and family life against the backdrop of 19th-century Russia. It is known for its complex characters and historical scope.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 7,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the chemical formula for water?",
+      "answer": "The chemical formula for water is H2O. This indicates that each molecule of water consists of two hydrogen atoms and one oxygen atom. Water is essential for all known forms of life and has unique properties, such as its high surface tension.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 8,
+      "category": "factual",
+      "language": "en",
+      "question": "How many continents are there?",
+      "answer": "There are seven continents in the world. These landmasses are generally separated by oceans and vary greatly in size, climate, and culture. They include Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 9,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the speed of light?",
+      "answer": "The speed of light is approximately 299,792,458 meters per second. This is a fundamental constant in physics and represents the fastest speed at which information or matter can travel in a vacuum. It is a cornerstone of modern physics, including Einstein's theory of relativity.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 10,
+      "category": "factual",
+      "language": "en",
+      "question": "Who was the first person to walk on the Moon?",
+      "answer": "The first person to walk on the Moon was Neil Armstrong. He achieved this historic milestone on July 20, 1969, during the Apollo 11 mission. His famous words, \"That's one small step for man, one giant leap for mankind,\" are iconic.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 11,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the tallest mountain in the world?",
+      "answer": "The tallest mountain in the world is Mount Everest. It is located in the Himalayas on the border between Nepal and the Tibet Autonomous Region of China. Its peak reaches an elevation of 8,848.86 meters above sea level.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 12,
+      "category": "factual",
+      "language": "en",
+      "question": "What programming language was created by Guido van Rossum?",
+      "answer": "Guido van Rossum created the programming language Python. He started developing it in the late 1980s and officially released it in 1991. Python is widely used for its readability and versatility in various programming applications.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 13,
+      "category": "factual",
+      "language": "en",
+      "question": "What is the currency of Japan?",
+      "answer": "The currency of Japan is the Yen. It is the third most traded currency in the foreign exchange market after the United States dollar and the euro. The symbol for the Yen is ¥ and its subdivisions are sen and rin.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 14,
+      "category": "factual",
+      "language": "en",
+      "question": "Who discovered penicillin?",
+      "answer": "Alexander Fleming discovered penicillin. While working in a lab in 1928, he noticed that a mold inhibited bacterial growth. This accidental discovery led to the development of the first antibiotic, revolutionizing medicine and saving countless lives.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 15,
+      "category": "factual",
+      "language": "en",
+      "question": "What year was the United Nations founded?",
+      "answer": "The United Nations was founded in 1945. Following the devastation of World War II, its primary goal was to prevent future conflicts and promote peace and cooperation among nations. The UN officially came into existence on October 24, 1945, after ratifying its founding documents.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 16,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is social media good or bad for teenagers?",
+      "answer": "Social media can be both beneficial and detrimental for teenagers. While it provides platforms for connection, learning, and self-expression, excessive or unmonitored use can lead to negative outcomes such as cyberbullying, privacy concerns, and mental health issues. A balanced approach to social media usage is crucial for teenagers' well-being.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 17,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should artificial intelligence replace human workers?",
+      "answer": "Whether artificial intelligence should replace human workers is a complex issue. AI can automate tasks, improve efficiency, and handle repetitive jobs, potentially freeing humans for more creative and strategic work. However, widespread AI implementation could lead to job displacement and economic disruption, necessitating careful consideration and adaptation strategies.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 18,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is democracy the best form of government?",
+      "answer": "Democracy is often considered the best form of government due to its emphasis on citizen participation and individual freedoms. It allows for representation and the peaceful transfer of power, theoretically preventing tyranny. However, the effectiveness of democracy can vary depending on institutional design, cultural context, and citizen engagement.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 19,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is it better to live in a big city or a small town?",
+      "answer": "The choice between living in a big city or a small town depends on personal preferences and priorities. Big cities typically offer more career opportunities, cultural attractions, and diverse amenities, but can also be overwhelming and expensive. Small towns often provide a quieter, safer environment with a stronger sense of community, though they may lack certain resources and cultural events.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 20,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should university education be free?",
+      "answer": "Making university education free has significant advantages and disadvantages. Providing free access can increase equality and opportunity, allowing more people to pursue higher learning regardless of their financial background. However, it requires substantial government investment and could potentially strain public resources, raising questions about quality and sustainability.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 21,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is it ethical to eat meat?",
+      "answer": "The ethics of eating meat are widely debated. Proponents argue that humans have evolved to consume meat and that animals are a vital source of protein and nutrients. Opponents raise concerns about animal welfare, environmental impact, and health implications, advocating for vegetarian or vegan diets to varying degrees.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 22,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should countries spend more money on space exploration or solving poverty?",
+      "answer": "Deciding whether to spend more on space exploration or poverty alleviation is a matter of prioritizing global challenges. Space exploration drives technological innovation, inspires scientific curiosity, and could potentially offer solutions to long-term issues like resource scarcity. However, addressing poverty is a more immediate and tangible way to improve the lives of millions of people.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 23,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is homework beneficial for students?",
+      "answer": "Homework can be beneficial for students as it reinforces classroom learning and develops independent study habits. It allows students to practice skills and concepts learned in class, leading to better retention and understanding. Conversely, excessive homework can lead to stress, burnout, and reduced time for extracurricular activities and family life.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 24,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should there be stricter gun control laws?",
+      "answer": "Stricter gun control laws are often proposed as a means to reduce gun-related violence and increase public safety. These laws might include background checks, restrictions on certain types of weapons, and waiting periods for purchases. Opponents, however, argue that such laws infringe on the right to bear arms and may not effectively deter criminals.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 25,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is climate change the most important issue facing humanity?",
+      "answer": "Climate change is widely regarded as one of the most pressing issues facing humanity. Its impacts, including rising global temperatures, extreme weather events, and sea-level rise, pose significant threats to ecosystems and human societies. While other issues like poverty and disease are critical, climate change's systemic and long-term effects necessitate immediate and comprehensive action.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 26,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should parents monitor their children's internet usage?",
+      "answer": "Monitoring children's internet usage is generally considered a good practice for ensuring their safety and well-being. It helps protect them from harmful content, cyberbullying, and online predators, while also promoting responsible digital citizenship. Parents should balance monitoring with fostering trust and educating children about online safety.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 27,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is it more important to be rich or to be happy?",
+      "answer": "Whether it is more important to be rich or happy is a deeply personal and philosophical question. Wealth can provide security, access to resources, and certain comforts, but happiness often stems from relationships, personal fulfillment, and a sense of purpose. Many people believe that happiness is a more enduring and meaningful goal than material wealth.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 28,
+      "category": "opinion",
+      "language": "en",
+      "question": "Should traditional medicine be valued as much as modern medicine?",
+      "answer": "Traditional medicine should be valued and respected alongside modern medicine. While modern medicine excels in emergency care and technological interventions, traditional practices often offer holistic approaches, cultural insights, and centuries of accumulated knowledge. Integrating both can provide comprehensive healthcare that addresses diverse needs and preferences.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 29,
+      "category": "opinion",
+      "language": "en",
+      "question": "Is it acceptable for governments to censor the internet?",
+      "answer": "Government censorship of the internet is a contentious issue with significant implications for freedom of information and expression. While governments may argue for censorship to combat misinformation or protect national security, it can also be used to suppress dissent and limit access to diverse viewpoints. Balancing security and freedom in the digital age is a critical challenge.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 30,
+      "category": "opinion",
+      "language": "en",
+      "question": "Are standardized tests a good way to measure student ability?",
+      "answer": "Standardized tests can be a useful tool for measuring student ability, providing a common benchmark for evaluating academic performance. They can help identify areas where students may need additional support and can be a relatively efficient way to assess a large number of students. However, they are not without limitations, as they may not fully capture a student's potential, creativity, or critical thinking skills.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 31,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you wear warm clothes in winter?",
+      "answer": "Wearing warm clothes in winter is essential for maintaining body temperature and preventing hypothermia. Proper clothing, such as coats, hats, and gloves, helps the body retain heat and stay comfortable in cold conditions. Layering clothing can also provide flexibility in adjusting to varying temperatures.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 32,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it safe to drink water from a puddle?",
+      "answer": "Drinking water from a puddle is generally not safe due to potential contamination from pollutants, bacteria, and other harmful substances. Puddles can accumulate dirt, animal waste, and chemicals, making the water unsafe for consumption. Access to clean, potable water is crucial for health and well-being.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 33,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If you drop a glass on a hard floor, what will likely happen?",
+      "answer": "If you drop a glass on a hard floor, it will very likely break. The impact from the fall generates enough force to exceed the glass's structural integrity, causing it to shatter. The extent of the breakage can vary depending on the height of the fall and the type of glass.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 34,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it a good idea to study the night before an important exam?",
+      "answer": "Studying the night before an important exam can be a double-edged sword. While it can help reinforce last-minute information and boost confidence, it can also lead to anxiety, sleep deprivation, and reduced cognitive function. A more effective approach is often to study consistently throughout a course rather than relying solely on cramming.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 35,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you look both ways before crossing the street?",
+      "answer": "Looking both ways before crossing the street is a fundamental safety rule. It allows you to assess traffic flow from multiple directions, identify potential hazards, and make informed decisions about when it is safe to cross. This practice significantly reduces the risk of accidents and injuries.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 36,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Can a person survive without sleeping for a month?",
+      "answer": "A person cannot survive without sleeping for a month. Sleep is crucial for physical and mental restoration, memory consolidation, and overall health. Prolonged sleep deprivation leads to severe cognitive and physiological impairments, posing significant risks to a person's health and safety. Sleep is a fundamental biological necessity.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 37,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If you plant a seed and water it, what will eventually happen?",
+      "answer": "If you plant a seed and water it consistently, it will eventually grow into a plant. The water provides necessary hydration, while sunlight and nutrients from the soil fuel the plant's development. This process demonstrates the basic principles of photosynthesis and plant growth, leading to the production of leaves, stems, and potentially fruits or flowers.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 38,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it polite to talk loudly on your phone in a library?",
+      "answer": "Talking loudly on a phone in a library is considered impolite because it disrupts the quiet environment that others expect for reading and studying. Libraries are traditionally places for focused, silent work, and loud conversations can be distracting and inconsiderate to other patrons. Respecting the established etiquette of a space is important for communal harmony.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 39,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you put metal in a microwave?",
+      "answer": "Putting metal in a microwave is generally not a good idea and can be dangerous. Metal objects can cause sparks, arcs, and fires due to the microwaves interacting with the metal's electrons. This can damage the microwave and create a safety hazard, potentially leading to burns or electrical shock.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 40,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If it is raining, should you carry an umbrella?",
+      "answer": "Carrying an umbrella when it is raining is a practical and sensible action. An umbrella provides protection from the rain, keeping you dry and comfortable. It is a simple tool that effectively mitigates the inconvenience and discomfort of getting wet in the rain.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 41,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it appropriate to give a clock as a gift in Chinese culture?",
+      "answer": "Giving a clock as a gift in Chinese culture is considered inappropriate and can be interpreted as a symbol of time running out or a wish for someone's death. This cultural taboo stems from the sound of the phrase for \"giving a clock\" (送表 - sòng biǎo), which is a homophone for \"attending a funeral\" (送辨 - sòng biàn). Being mindful of such cultural nuances is important when selecting gifts.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 42,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you eat food that has been left out at room temperature for 24 hours?",
+      "answer": "Eating food that has been left out at room temperature for 24 hours is not advisable. After this amount of time, bacteria can multiply rapidly, increasing the risk of foodborne illness. The \"two-hour rule\" in food safety guidelines recommends discarding perishable foods left at room temperature for more than two hours.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 43,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it wise to share your passwords with friends?",
+      "answer": "Sharing passwords with friends is generally not a wise decision from a security perspective. Passwords are meant to protect personal and sensitive information, and sharing them can compromise your accounts and data. It is better to maintain the confidentiality of your passwords and use secure methods for sharing information when necessary.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 44,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If someone is choking, should you help them?",
+      "answer": "If someone is choking, providing immediate assistance is critical and potentially life-saving. The Heimlich maneuver or back blows can help dislodge the obstructing object from the airway. Knowing basic first aid for choking is an essential skill that can be crucial in emergency situations.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 45,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it normal to feel nervous before a job interview?",
+      "answer": "Feeling nervous before a job interview is a normal and common reaction. The anticipation of a significant event can trigger physiological responses such as increased heart rate and anxiety. While some nervousness can be motivating, excessive anxiety can hinder performance, making relaxation techniques and preparation helpful.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 46,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Should you wash your hands before eating?",
+      "answer": "Washing your hands before eating is an important hygiene practice that helps prevent the spread of germs and pathogens. It removes dirt, bacteria, and other contaminants from your hands, reducing the risk of illness. This simple act is a fundamental principle of public health and personal cleanliness.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 47,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Can you trust everything you read on the internet?",
+      "answer": "You cannot trust everything you read on the internet without critical evaluation. The internet contains a vast amount of information, but not all of it is accurate, reliable, or unbiased. It is essential to verify information from multiple sources, consider the credibility of the source, and be aware of potential misinformation or propaganda.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 48,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it respectful to remove your shoes before entering someone's home in Japan?",
+      "answer": "Removing your shoes before entering someone's home in Japan is a sign of respect and cleanliness. This custom, known as \"taking off your shoes,\" is a traditional practice that symbolizes leaving the dirt and dust of the outside world behind. It is an important aspect of Japanese etiquette and shows consideration for the host and the cleanliness of their home.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 49,
+      "category": "commonsense",
+      "language": "en",
+      "question": "If you see smoke coming from a building, should you call emergency services?",
+      "answer": "If you see smoke coming from a building, calling emergency services is an appropriate and potentially life-saving action. Smoke is often an indicator of a fire, which can pose significant risks to people and property. Promptly alerting emergency services allows them to respond quickly and address the potential danger.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 50,
+      "category": "commonsense",
+      "language": "en",
+      "question": "Is it a good idea to invest all your savings in a single stock?",
+      "answer": "Investing all your savings in a single stock is generally not a good idea due to the high level of financial risk involved. Diversifying your investments across various assets, industries, or geographic regions is a more prudent strategy to mitigate potential losses. Putting all your financial resources into one investment is highly speculative and can lead to significant financial hardship if the stock performs poorly.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 1,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какая столица Казахстана?",
+      "answer": "Какая столица Казахстана?\nАлма-Аты.\nАлма-Аты — это столица и最大ное городообразующееся образование республики, расположенное в центре страны. Это важнейшее экономическое, культурное и государственное центр республики, а также ее промышленный и аграрный центр.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 2,
+      "category": "factual",
+      "language": "ru",
+      "question": "Кто изобрёл телефон?",
+      "answer": "Кто изобрёл телефон?\nАлександр Грэмбл.\nТелефон был изобретен Александром Грэмблом в 1876 году, когда он получил патент на свою созданную аппаратуру. Однако развитие телефонного оборудования и технологий продолжалось многими другими учеными и инженерами.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 3,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какая самая большая страна в мире по площади?",
+      "answer": "Какая самая большая страна в мире по площади?\nРоссия.\nРоссия является наибольшим страной в мире по общей площади, распространенной на 11 time zone. Она занимает почти 1/8 поверхности Земли и равнозначна в нее чем пять أوروبا.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 4,
+      "category": "factual",
+      "language": "ru",
+      "question": "Когда закончилась Вторая мировая война?",
+      "answer": "Когда закончилась Вторая мировая война?\nВо Второй мировой войне закончилась 2 сентября 1945 года, когда Великое союзное государство при подписании соглашения о безымянном оружии с Японией завершила войну с Аxis.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 5,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какова температура кипения воды на уровне моря?",
+      "answer": "Какова температура кипения воды на уровне моря?\nВода кипит примерно на 100 градусах по Цельсию (373,15 К по Кельвину) при чистом атмосферном давлении. На повышенных или низких этажах атмосферного давления, например, на горах или на океане, кипение воды может наблюдаться при отличных от 100 градусов температурах.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 6,
+      "category": "factual",
+      "language": "ru",
+      "question": "Кто написал «Войну и мир»?",
+      "answer": "Кто написал «Войну и мир»?\nЛев Толстой.\n«Война и мир» — трилогия романов, написанная русским писателем Левом Николаевичом Толстым, изданная в 1865—1869 годах. Этот труд является одним из важнейших произведений русской и мировой литературы.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 7,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какова химическая формула воды?",
+      "answer": "Какова химическая формула воды?\nВода представляет собой кристаллическую решетку из двух атомов гоминосулфика, связанных двумя атомами водорода. Химическая формула воды имеет вид H2O, где H — атомы гоминосулфика, а O — атом водорода.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 8,
+      "category": "factual",
+      "language": "ru",
+      "question": "Сколько континентов на Земле?",
+      "answer": "Сколько континентов на Земле?\nСемь.\nНа Земле существуют 7 основных континентов: Африка, Антарктика, Азия, Европа, Северная Америка, Океания (Австралия) и Южная Америка. Каждый из них имеет свои уникальные черты и климатические режимы.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 9,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какова скорость света?",
+      "answer": "Какова скорость света?\n299 792 458 м/с.\nСкорость света — это постоянная, являющаяся одной из основных констант в природе. Она определена как скорость, с которой проникает свет в вакууме.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 10,
+      "category": "factual",
+      "language": "ru",
+      "question": "Кто первым ступил на Луну?",
+      "answer": "Кто первым ступил на Луну?\nАртемий Алексеевич Артемьев.\nДля первого человеческого посадки на Луну в 1969 году был отправлен Аполлон 11, в составе которого были астронавты Нил Армстронг, Бuzz Aldrin и Майк Дигт. Нил Армстронг и Бuzz Aldrin были первыми, кто посадился на Луну.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 11,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какая самая высокая гора в мире?",
+      "answer": "Какая самая высокая гора в мире?\nМонбланк.\nСамой высокой горой в мире считается Монбланк, расположенная в Андхра براديش, Индии. Измеряется по высоте от базы до вершиной, и до сих пор она является объектом целенаправленных исследований.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 12,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какой язык программирования создал Гвидо ван Россум?",
+      "answer": "Какой язык программирования создал Гвидо ван Россум?\nBASIC.\nГвидо ван Россум, английский учёный и впоследствии американский гражданин, создал язык программирования BASIC в 1964 году. Этот язык был создан для обеспечения доступности программирования для широкой слепой публики.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 13,
+      "category": "factual",
+      "language": "ru",
+      "question": "Какая валюта Японии?",
+      "answer": "Какая валюта Японии?\nЙен.\nЙен является национальной валютой Японии, состоит из 100 сен. Йен является одной из стабильных и крупнейших в мире валют, часто используемой в международных торговых операциях.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 14,
+      "category": "factual",
+      "language": "ru",
+      "question": "Кто открыл пенициллин?",
+      "answer": "Кто открыл пенициллин?\nАлександр Флеминг.\nПенициллин был открыт английским слизиноотворчивым врачом Александром Флемингом в 1928 году. Этот открытие кардинально изменило поведение в отделении инфекционных заболеваний.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 15,
+      "category": "factual",
+      "language": "ru",
+      "question": "В каком году была основана Организация Объединённых Наций?",
+      "answer": "В каком году была основана Организация Объединённых Наций?\n1945 году.\nОрганизация Объединённых Наций была основана в 1945 году в результате конференции в Хофен-хаузен (Швейцария) после Второй мировой войны. Целью было создание международной организации, которая способствует сохранению мира и сотрудничеству между странами.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 16,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Социальные сети — это хорошо или плохо для подростков?",
+      "answer": "Социальные сети — это хорошо или плохо для подростков?\nХорошо и плохо.\nСоциальные сети обеспечивают подросткам способность связаться с друзьями, обмениваться информацией и развивать социальные навыки. Однако, они также могут привести к проблемам, таким как зависимость от телефонных устройств, отсутствие личного контакта и риск негативного влияния со стороны общества.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 17,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Должен ли искусственный интеллект заменить людей на работе?",
+      "answer": "Должен ли искусственный интеллект заменить людей на работе?\nНе стоит заменять, а стоит сотрудничать.\nИскусственный интеллект (ИИ) имеет потенциал для автоматизации рутинных и повторяющихся задач, повышая эффективность. Однако, полного заменения человеческого труда в отражающихся сферах недостаточно, а стоит искусственный интеллект сосуществовать с человеческими способностями.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 18,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Является ли демократия лучшей формой правления?",
+      "answer": "Является ли демократия лучшей формой правления?\nСкорее всего, демократия является лучшей из доступных.\nДемократия позволяет гражданам участвовать в принятии решений, что способствует более прозрачному и открытому правлению. Однако, она требует от общества высокого уровня образования и могла быть искажена интересами некоторых групп.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 19,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Лучше жить в большом городе или маленьком?",
+      "answer": "Лучше жить в большом городе или маленьком?\nПривычка и цели.\nПреимущества жизни в большом городе включают большее количество вариантов для работы, образования и развлечений. Маленький город может предлагать более близкие контакты, безопасность и более плотную социальную жизнь. Важно определить, что больше подходит индивиду.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 20,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Должно ли высшее образование быть бесплатным?",
+      "answer": "Должно ли высшее образование быть бесплатным?\nДолжно, но с процветанием.\nБесплатное высшее образование позволит более широкой слепой публике достичь высокие знания. Однако, финансирование образования требует существующих ресурсов и может быть ограничено бюджетными расходами.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 21,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Этично ли есть мясо?",
+      "answer": "Этично ли есть мясо?\nПравило знать.\nЭтика еды мяса зависит от конкретных ценностей и контекста. Многие религии и философские традиции разрешают еду мяса, а некоторые запрещают. Важно понимать, из каких животных и каким образом был получен мясо.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 22,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Должны ли страны тратить больше денег на космос или на борьбу с бедностью?",
+      "answer": "Должны ли страны тратить больше денег на космос или на борьбу с бедностью?\nВажно иметь баланс.\nУлучшение качества жизни и борьба с бедностью являются важными целями, однако, вклад в космосное исследование может принести важные открытия. Важно создать баланс между поддержкой прогресса в области наук и обеспечением базовых потребностей населения.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 23,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Полезны ли домашние задания для учеников?",
+      "answer": "Полезны ли домашние задания для учеников?\nДа, полезны.\nДомашние задания способствуют усвоению материала, развитию навыков самостоятельного обучения и воспитательных ценностей. Однако, чрезмерные задания могут привести к burnout, если не построены в зависимости от возраста и уровня подготовки.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 24,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Нужны ли более строгие законы о контроле оружия?",
+      "answer": "Нужны ли более строгие законы о контроле оружия?\nСкорее всего, да.\nБолее строгие законы могут способствовать безопасности общества, уменьшая количество простых преступлений и случаев насилия. Однако, существуют исключения, когда оружие может быть необходимо для обороны.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 25,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Является ли изменение климата самой важной проблемой человечества?",
+      "answer": "Является ли изменение климата самой важной проблемой человечества?\nСкорее всего, важная, но не единственная.\nИзменение климата — это глобальная проблема, которая угрожает экосистемам и человечеству, имея серьезные последствия для биоразнообразия и экономики. Однако, существуют и другие важные проблемы, такие как голод, болезни и конфликты.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 26,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Должны ли родители контролировать интернет-активность своих детей?",
+      "answer": "Должны ли родители контролировать интернет-активность своих детей?\nДа, в определённых обстоятельствах.\nРодители обязаны заботиться о безопасности и контролировать контент, доступный своим детям. Однако, избыточный контроль может нарушить личностные права и зависимость.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 27,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Что важнее: быть богатым или быть счастливым?",
+      "answer": "Что важнее: быть богатым или быть счастливым?\nВажнее быть счастливым.\nЖелание к богатству может привести к стрессам, конкуренции и трудностям в личной жизни. Счастье, как правило, является более устойчивым целым и может быть достигнуто независимо от материального благосостояния.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 28,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Следует ли ценить традиционную медицину так же, как современную?",
+      "answer": "Следует ли ценить традиционную медицину так же, как современную?\nДа, в определённых случаях.\nТрадиционная медицина, особенно в её глубоких культурных основаниях, может быть полезна в поддержке здоровья и воспитании. Однако, современная медицина имеет базовые научные основы, имея серьезные преимущества в лечении.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 29,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Допустимо ли для правительств цензурировать интернет?",
+      "answer": "Допустимо ли для правительств цензурировать интернет?\nПравительства имеют возможность регулировать, но цензура негативно.\nЦензура интернета может нарушать свободу слова и доступ к информации. Однако, в некоторых случаях, государства могут ограничивать доступ к контенту, который может быть вредным или недостаточно надежным.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 30,
+      "category": "opinion",
+      "language": "ru",
+      "question": "Являются ли стандартизированные тесты хорошим способом оценки способностей учеников?",
+      "answer": "Являются ли стандартизированные тесты хорошим способом оценки способностей учеников?\nСкорее всего, да, но с оговорками.\nСтандартизированные тесты позволяют легко сравнивать результаты, проводить статистические анализы и отслеживать общую тенденцию. Однако, они могут быть несправедливыми в отношении отдельных учеников, не оценивая их уникальные способности.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 31,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Нужно ли одеваться тепло зимой?",
+      "answer": "Нужно ли одеваться тепло зимой?\nДа, для комфорта.\nОдеваться тепло в зимнее время помогает сохранять приемлемую температуру тела, предотвращая замёрзание и заболевания. Однако, избыточная надевалка может привести к перепадам температур.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 32,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Безопасно ли пить воду из лужи?",
+      "answer": "Безопасно ли пить воду из лужи?\nНебезопасно, пока не проверить.\nВода из лужи может быть заболежной, поэтому, перед питьем, следует проверить её чистоту. В случае необходимости, воду следует обогащать, снижая концентрацию веществ.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 33,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если уронить стакан на твёрдый пол, что произойдёт?",
+      "answer": "Если уронить стакан на твёрдый пол, что произойдёт?\nПоражение и разбег.\nСтакан, уроненный на твердый пол, вероятно, разбегнется, а его содержимое может раскидаться. При скорости удара и зависимости от материала стакана, разбег может быть небольшим или значительным.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 34,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Хорошая ли идея учиться ночью перед важным экзаменом?",
+      "answer": "Хорошая ли идея учиться ночью перед важным экзаменом?\nСкорее всего, нет.\nУчиться ночью может привести к утомлению, повышению нервозности и недостатку качественного сна. Это может повлиять на память и способность принятия решений.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 35,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Нужно ли смотреть по сторонам, прежде чем переходить дорогу?",
+      "answer": "Нужно ли смотреть по сторонам, прежде чем переходить дорогу?\nДа, это обязательно.\nПереходить дорогу без осмотра обеспечивает безопасность, позволяя увидеть движущиеся транспортные средства. Это правило важно для предотвращения происшествий.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 36,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Может ли человек выжить без сна в течение месяца?",
+      "answer": "Может ли человек выжить без сна в течение месяца?\nПожилой человек, вероятно, исчислять времена.\nОтсутствие сна в течение длительного времени может привести к серьезным последствиям для здоровья, памяти и психического состояния. Пожилой человек, скорее всего, не выживет без сна в течение месяца.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 37,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если посадить семя и поливать его, что в итоге произойдёт?",
+      "answer": "Если посадить семя и поливать его, что в итоге произойдёт?\nРастение.\nПосле посадки семя и её поливания, в процессе развития по мере вех, будет процветать растение. Такое поведение является естественным и важно для процветания любой флори.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 38,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Вежливо ли громко разговаривать по телефону в библиотеке?",
+      "answer": "Вежливо ли громко разговаривать по телефону в библиотеке?\nНе вежливо.\nГромко разговаривать в библиотеке может мешать другим читателям, нарушая общественный порядок. В библиотеке существует правило тишины, и вежливость требует отдыха.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 39,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Можно ли ставить металл в микроволновку?",
+      "answer": "Можно ли ставить металл в микроволновку?\nПожилой человек, вероятно, исчислять времена.\nПо правилу, некоторые металлы могут быть вставлены в микроволновку, если их конструкция позволяет. Однако, некоторые металлы могут вызывать пожар или вред оборудования.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 40,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если идёт дождь, стоит ли взять зонт?",
+      "answer": "Если идёт дождь, стоит ли взять зонт?\nДа, для защиты.\nВзять зонт в случае дожда позволит сохранить тепло и защитить от заболеваний. Однако, в зависимости от интенсивности дожда, зонт может быть недостаточен.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 41,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Уместно ли дарить часы в китайской культуре?",
+      "answer": "Уместно ли дарить часы в китайской культуре?\nСкорее всего, нет.\nВ китайской культуре дарить часы может быть неудачным, так как часы связаны с идеей «отсчёта времени до смерти». Приобретение часов в китайском контексте следует осмотреть с различных точек зрения.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 42,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Можно ли есть еду, которая простояла при комнатной температуре 24 часа?",
+      "answer": "Можно ли есть еду, которая простояла при комнатной температуре 24 часа?\nПожилой человек, вероятно, исчислять времена.\nПо правилу, еду, оставшуюся в комнатной температуре, вероятно, станет неприемлемой. Важно хранить еду в специальных условиях, чтобы предотвратить развитие вредных микробов.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 43,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Разумно ли делиться своими паролями с друзьями?",
+      "answer": "Разумно ли делиться своими паролями с друзьями?\nНе разумно.\nПоделение паролями с друзьями может повлиять на безопасность, если один из них станет объектом нападения. Важно иметь уникальные пароли, чтобы обеспечить конфиденциальность.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 44,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если кто-то подавился, нужно ли ему помочь?",
+      "answer": "Если кто-то подавился, нужно ли ему помочь?\nДа, важно.\nПомощь в насущном случае является человеческой ответственностью. Подавшемуся следует дарить внимание и вмешательство, чтобы удостовериться в безопасности.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 45,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Нормально ли волноваться перед собеседованием?",
+      "answer": "Нормально ли волноваться перед собеседованием?\nСкорее всего, важно.\nВолноваться перед собеседованием — это естественное чувство, повлияющее на концентрацию и подготовку. Однако, избыточная тревога может мешать общению.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 46,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Нужно ли мыть руки перед едой?",
+      "answer": "Нужно ли мыть руки перед едой?\nДа, обязательно.\nМыть руки перед едой является основным правилом гигиены, которое может предотвратить развитие инфекций и заболеваний. Это общепринятое правило здоровья.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 47,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Можно ли доверять всему, что читаешь в интернете?",
+      "answer": "Можно ли доверять всему, что читаешь в интернете?\nНет, не стоит.\nИнтернет содержит массу информации, включая лживые, неточные и старые данные. Важно проверять источники, чтобы повысить надежность.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 48,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Уважительно ли снимать обувь перед входом в чужой дом в Японии?",
+      "answer": "Уважительно ли снимать обувь перед входом в чужой дом в Японии?\nДа, важно.\nВ японской культуре, снимать обувь перед входом в дом является обычным и показательным демонстрацией уважения. Это практика, которая показывает соблюдение традиций.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 49,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Если вы видите дым из здания, нужно ли звонить в экстренные службы?",
+      "answer": "Если вы видите дым из здания, нужно ли звонить в экстренные службы?\nДа, важно.\nСмотреть дым из здания является серьезным признаком огня, и необходимо немедленно звонить в экстренные службы. Это может содействовать спасению жизни и снижению вероятности развития катастрофы.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 50,
+      "category": "commonsense",
+      "language": "ru",
+      "question": "Хорошая ли идея вложить все сбережения в одну акцию?",
+      "answer": "Хорошая ли идея вложить все сбережения в одну акцию?\nСкорее всего, нет.\nВложить все сбережения в одну акцию — это рискованная идея, которая может привести к потере всех активов. Важно распределять активы, чтобы уменьшить риск.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 1,
+      "category": "factual",
+      "language": "zh",
+      "question": "哈萨克斯坦的首都是哪里？",
+      "answer": "哈萨克斯坦的首都是乌兰巴托。\n乌兰巴托是哈萨克斯坦的政治、经济、文化和交通中心,也是联合国在亚洲的一个主要办事处。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 2,
+      "category": "factual",
+      "language": "zh",
+      "question": "谁发明了电话？",
+      "answer": "电话是亚历山大·格尔(C ألكسندر Graham Bell)发明的。\n他是一位 Scottish 发明家,最初的目的是为了帮助听不见的人与他人沟通,最终发明了电话并获得了专利。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 3,
+      "category": "factual",
+      "language": "zh",
+      "question": "世界上面积最大的国家是哪个？",
+      "answer": "世界上面积最大的国家是俄罗斯。\n俄罗斯位于欧洲和亚洲之间,是地球上面积最大的国家,占有超过6.6万平方公里的广袤土地。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 4,
+      "category": "factual",
+      "language": "zh",
+      "question": "第二次世界大战什么时候结束的？",
+      "answer": "第二次世界大战结束于1945年。\n这场灾难性的大战在1945年5月8日分别在欧洲和太平洋地区结束,标志着人类历史上最广泛和最严重的战争的结束。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 5,
+      "category": "factual",
+      "language": "zh",
+      "question": "海平面上水的沸点是多少？",
+      "answer": "海平面上水的沸点是100摄氏度。\n在标准大气压下,水在海平面(地面)会在达到100摄氏度时变成蒸汽,但通常指的是海平面上水的沸腾温度是100摄氏度。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 6,
+      "category": "factual",
+      "language": "zh",
+      "question": "《战争与和平》的作者是谁？",
+      "answer": "《战争与和平》的作者是列昂诺夫·塔尔斯特金。\n他是俄罗斯19世纪最伟大的小说家和诗人,《战争与和平》是他最著名的作品,被誉为人类文学的瑰宝。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 7,
+      "category": "factual",
+      "language": "zh",
+      "question": "水的化学分子式是什么？",
+      "answer": "水的化学分子式是H2O。\n水由两个氢原子和一个氧原子构成,是一种复杂而重要的化学物质,是生命在地球上的基础。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 8,
+      "category": "factual",
+      "language": "zh",
+      "question": "地球上有几个大洲？",
+      "answer": "地球上有7个大洲。\n它们是非洲、亚洲、欧洲、北美洲、南美洲、大洋洲和 القارة القطبية الجنوبية,每个大洲都有其独特的地理、文化和气候特征。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 9,
+      "category": "factual",
+      "language": "zh",
+      "question": "光速是多少？",
+      "answer": "光速是299,792,458米每秒。\n光速是自然界中最快的物体运动速度,是现代物理学中一个基本常数,用来描述光和其他电磁辐射的传播速度。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 10,
+      "category": "factual",
+      "language": "zh",
+      "question": "谁是第一个登上月球的人？",
+      "answer": "第一个登上月球的人是尼尔·阿姆斯特朗。\n他是一位美籍空军飞行员,1969年7月20日在Apollo 11任务中率先踏足月球表面,开启了人类探索宇宙的新篇章。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 11,
+      "category": "factual",
+      "language": "zh",
+      "question": "世界上最高的山是什么？",
+      "answer": "世界上最高的山是珀喀纳拉山。\n珀喀纳拉山位于尼布楚克和藏南,海拔8848.86米,是世界最高的山脉,也是人类攀爬的目标之一。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 12,
+      "category": "factual",
+      "language": "zh",
+      "question": "Guido van Rossum 创造了什么编程语言？",
+      "answer": "Guido van Rossum创造了Python编程语言。\nGuido van Rossum 是荷兰计算机科学家,他于1991年12月首次发布了Python语言,并在此后的多年中不断完善和发展。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 13,
+      "category": "factual",
+      "language": "zh",
+      "question": "日本的货币是什么？",
+      "answer": "日本的货币是日元。\n日元是日本的法定货币,通称为\"日元\",其单位为日元,符号为¥,是亚洲最活跃的货币之一。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 14,
+      "category": "factual",
+      "language": "zh",
+      "question": "谁发现了青霉素？",
+      "answer": "发现青霉素的人是阿尔伯特·门捷伍德·金。\n他是一位 Scottish 医学家,于1928年9月偶然发现了青霉素,这项发现彻底改变了人类对感染的治疗方式。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 15,
+      "category": "factual",
+      "language": "zh",
+      "question": "联合国是哪一年成立的？",
+      "answer": "联合国是1945年成立的。\n联合国是一个国际组织,旨在维护国际和平与安全,促进国际合作,解决世界性问题,其成立标志着国际秩序的重塑。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 16,
+      "category": "opinion",
+      "language": "zh",
+      "question": "社交媒体对青少年是好还是坏？",
+      "answer": "社交媒体对青少年既有好处也有坏处。\n虽然社交媒体提供了信息获取和社交互动的平台,但过度使用可能导致孤独、焦虑等心理健康问题,因此需要合理使用。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 17,
+      "category": "opinion",
+      "language": "zh",
+      "question": "人工智能应该取代人类工人吗？",
+      "answer": "人工智能是否应该取代人类工人是一个复杂的问题。\n虽然AI在某些方面能提高效率,但完全取代人类可能导致就业问题,因此需要在技术发展和社会责任之间取得平衡。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 18,
+      "category": "opinion",
+      "language": "zh",
+      "question": "民主是最好的政府形式吗？",
+      "answer": "民主并不是最好的政府形式。\n尽管民主在个人自由和公民参与方面具有优势,但其在效率和稳定性方面可能存在挑战,理想的政府形式应该结合国家特定情况而定。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 19,
+      "category": "opinion",
+      "language": "zh",
+      "question": "住在大城市好还是小城镇好？",
+      "answer": "生活在大城市和小城镇各有其优缺点。\n大城市通常提供更多的就业机会和服务设施,但也可能带来更高的生活成本和繁忙的生活节奏,而小城镇则更加宁静和社区亲密。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 20,
+      "category": "opinion",
+      "language": "zh",
+      "question": "大学教育应该免费吗？",
+      "answer": "大学教育是否应该免费是一个争议的话题。\n免费教育能够提升社会公平性,但也可能导致资源过度集中,而部分人认为应该通过学费来维持教育质量和资源的合理配置。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 21,
+      "category": "opinion",
+      "language": "zh",
+      "question": "吃肉是否符合道德？",
+      "answer": "吃肉是否符合道德是一个个人价值观念的问题。\n对于某些人来说,吃肉符合自己的生活习惯和文化传统,而对于素食者来说,这可能是一种不符合道德的行为。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 22,
+      "category": "opinion",
+      "language": "zh",
+      "question": "国家应该把更多的钱花在太空探索还是解决贫困问题上？",
+      "answer": "国家应该把更多的钱花在解决贫困问题上。\n虽然太空探索有助于科学进步和国家荣耀,但解决贫困问题是保障国民基本生活的首要任务,应该优先考虑。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 23,
+      "category": "opinion",
+      "language": "zh",
+      "question": "作业对学生有益吗？",
+      "answer": "作业对学生有益,但过量的作业可能导致压力。\n适当的作业能够巩固学习,巩固知识点,但如果学生每天都有大量的作业,可能会影响他们的健康和生活平衡。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 24,
+      "category": "opinion",
+      "language": "zh",
+      "question": "是否应该实行更严格的枪支管控法？",
+      "answer": "是否应该实行更严格的枪支管控法是一个争议的话题。\n一些人认为更严格的枪支管控法可以降低暴力事件的发生,而另一些人则认为这是侵犯个人自由的行为,需要在安全与自由之间寻求平衡。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 25,
+      "category": "opinion",
+      "language": "zh",
+      "question": "气候变化是人类面临的最重要的问题吗？",
+      "answer": "气候变化是人类面临的一个最重要的问题。\n气候变化导致全球变暖、极端天气事件频发,对人类社会和自然环境构成严峻挑战,需要国际社会共同应对。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 26,
+      "category": "opinion",
+      "language": "zh",
+      "question": "家长应该监控孩子的上网行为吗？",
+      "answer": "家长应该合理监控孩子的上网行为。\n孩子们在网络中接触到的信息种种,家长应该在必要时进行合理的监控,以保护孩子免受不良信息的影响,但也要尊重孩子的个人隐私。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 27,
+      "category": "opinion",
+      "language": "zh",
+      "question": "有钱更重要还是快乐更重要？",
+      "answer": "有钱和快乐的关系复杂,但健康的生活应该是优先考虑的。\n虽然经济上的稳定可以带来物质的安全感,但内心的幸福感和快乐同样重要,健康的生活应该是人们追求的目标。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 28,
+      "category": "opinion",
+      "language": "zh",
+      "question": "传统医学是否应该得到与现代医学一样的重视？",
+      "answer": "传统医学与现代医学应该相辅相成。\n传统医学在某些方面具有独特的优势,能够与现代医学相结合,从而更好地服务于人民的健康。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 29,
+      "category": "opinion",
+      "language": "zh",
+      "question": "政府审查互联网是否可以接受？",
+      "answer": "政府是否可以接受审查互联网是一个复杂的问题。\n一些人认为国家需要保护国家安全和社会秩序,但过度的审查可能会削弱个人自由,需要在维护安全与保障自由之间寻找合理的政策。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 30,
+      "category": "opinion",
+      "language": "zh",
+      "question": "标准化考试是衡量学生能力的好方法吗？",
+      "answer": "标准化考试是衡量学生能力的一种方式。\n标准化考试能够提供一个公平的评估标准,但它并不能完全反映学生的综合素质,因此需要结合其他评估方式来全面评估学生。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 31,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "冬天应该穿暖和的衣服吗？",
+      "answer": "冬天穿暖和衣服是明智的选择。\n冬天穿着合适的衣服可以保持身体温暖,避免感冒和冻伤,从而更好地享受这个季节。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 32,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "喝水坑里的水安全吗？",
+      "answer": "喝水坑里的水通常是不安全的。\n水坑内可能含有有害物质和细菌,饮用可能会导致生病,因此应该选择经过处理的安全饮用水。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 33,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果你把玻璃杯掉到硬地板上，会发生什么？",
+      "answer": "如果你把玻璃杯掉到硬地板上会碎裂。\n玻璃是一种脆性大的物质,一旦从高处掉落,会发生碎裂现象,从而造成危险。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 34,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在重要考试前一晚学习是个好主意吗？",
+      "answer": "在重要考试前一晚学习是不明智的。\n适度的复习是必要的,但过度熬夜容易导致记忆不集中和精力不足,因此应该合理安排时间,确保充足的睡眠。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 35,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "过马路前应该左右看看吗？",
+      "answer": "在过马路前应该左右看看是安全的。\n在过马路时,确保左右无人和安全无虑后再行过马路,遵循交通规则,是保障个人安全的重要措施。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 36,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "一个人能一个月不睡觉还活着吗？",
+      "answer": "一个人不能在一个月内不睡觉而保持健康。\n缺乏睡眠会对身体健康造成严重危害,可能导致记忆力下降、情绪波动等问题,因此保证充足睡眠是非常重要的。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 37,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果你种下一颗种子并浇水，最终会怎样？",
+      "answer": "如果你种下一颗种子并浇水,最终会长出植物。\n种子需要适当的水分和阳光等条件,经过几周或几个月的生长过程,会逐渐发芽、生长为幼苗,最终形成完整的植物。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 38,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在图书馆大声打电话礼貌吗？",
+      "answer": "在图书馆大声打电话是不礼貌的。\n图书馆是安静的学习环境,打电话会打扰其他人,因此应该尽量避免在图书馆内打电话,尊重他人的学习环境。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 39,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "金属可以放进微波炉吗？",
+      "answer": "金属不能放进微波炉。\n金属容易在微波炉中产生火花,从而造成火灾危险,因此不应将金属物品放入微波炉中加热。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 40,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果下雨了，应该带伞吗？",
+      "answer": "如果下雨了应该带伞是明智的。\n带伞可以避免雨水直接接触身体,保护自身健康,尤其是在降雨量较大的情况下,更应该带伞外出。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 41,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在中国文化中送钟表作为礼物合适吗？",
+      "answer": "在中国文化中,送钟表作为礼物不合适。\n传统上,送钟表被认为是祈愿对方寿命短暂的象征,因此在中国文化中并不适合作为礼物。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 42,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在室温下放置24小时的食物还能吃吗？",
+      "answer": "24小时内室温下的食物可能不安全。\n食物在室温下保存超过2小时,细菌繁殖风险大,容易导致食物变质和食物中毒,因此应尽量避免长时间在室温下保存食物。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 43,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "与朋友分享密码明智吗？",
+      "answer": "与朋友分享密码是不明智的。\n密码是个人隐私的重要组成部分,与他人分享可能导致帐户被盗,个人信息泄露,因此应保护好自己的密码,不与他人分享。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 44,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果有人噎住了，你应该帮助他们吗？",
+      "answer": "如果有人噎住了,应该立即帮助他们。\n当一个人在吃东西时突然噎住,可能会窒息,因此应该立即采取措施,比如打背、施食管反冲等,尽快恢复呼吸。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 45,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "面试前感到紧张是正常的吗？",
+      "answer": "面试前感到紧张是正常的。\n面试是一个重要的人生转折点,感到紧张是很正常的,但过度的紧张可能会影响表现,因此需要放松心情,充分准备。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 46,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "吃饭前应该洗手吗？",
+      "answer": "吃饭前应该洗手是卫生的。\n在吃东西之前洗手可以去除手上的细菌和污垢,预防感染,保障健康,这是一项基本的卫生习惯。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 47,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "你能相信你在网上读到的一切吗？",
+      "answer": "不能完全相信网上的一切。\n网络上有大量的虚假信息和不确定性,用户在获取信息时应保持辨别和批判的态度,以避免上当受骗。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 48,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "在日本进入别人家之前脱鞋是礼貌的吗？",
+      "answer": "在日本进入别人家之前脱鞋是礼貌的。\n在日本,进入别人家时脱鞋是一种传统的礼仪,能够展现对主人家尊重的态度,避免打扰主人。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 49,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "如果你看到建筑物冒烟，应该打急救电话吗？",
+      "answer": "如果你看到建筑物冒烟,应该立即拨打急救电话。\n建筑物冒烟可能是火灾的征兆,立即拨打急救电话能够及时向相关部门报告,从而尽快灭火,保护生命财产安全。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 50,
+      "category": "commonsense",
+      "language": "zh",
+      "question": "把所有积蓄都投资在一只股票上是个好主意吗？",
+      "answer": "把所有积蓄都投资在一只股票上是不明智的。\n投资风险大,把所有资金集中在一只股票上可能会带来巨大的损失,因此应该多元化投资,降低风险。",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 1,
+      "category": "factual",
+      "language": "kz",
+      "question": "Қазақстанның астанасы қай қала?",
+      "answer": "Қазақстанның астанасы қай қала?\nАстана Қазақстанның қазақ тілін қызметчылығы бойынша қазақстанның аймақасы, Азияның немесе Аңұла қазақстанның үшін елтауы бойынша қазақстанның қазақ тілін піл елтауы.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 2,
+      "category": "factual",
+      "language": "kz",
+      "question": "Телефонды кім ойлап тапты?",
+      "answer": "Телефонды кім ойлап тапты?\nТелефонды ойлап тапу үшін түсініктілік, бірақ төстік, бірақ сынып алу үшін немесе төстікті дамуының алдында сызыған, елі де формалы теңеулер бар.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 3,
+      "category": "factual",
+      "language": "kz",
+      "question": "Әлемдегі ең үлкен мемлекет аумағы бойынша қайсы?",
+      "answer": "Әлемдегі ең үлкен мемлекет аумағы бойынша қайсы?\nӘлемде ең үлкен мемлекет аумағы бойынша қазақстан бұл қазақ мемлекетінің үшін елтауы, мемлекеттің үзғылысы бойынша қазақ тілін піл елтауы.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 4,
+      "category": "factual",
+      "language": "kz",
+      "question": "Екінші дүниежүзілік соғыс қашан аяқталды?",
+      "answer": "Екінші дүниежүзілік соғыс қашан аяқталды?\nЕкінші дүниежүзілік соғыс қашан аяқта емес, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 5,
+      "category": "factual",
+      "language": "kz",
+      "question": "Теңіз деңгейінде судың қайнау температурасы қанша?",
+      "answer": "Теңіз деңгейінде судың қайнау температурасы қанша?\nТеңіз деңгейінде судың қайнау температурасы 30-40 градус сөз бойынша 40-45 градус бұланса, сып алу үшін екі туын бар.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 6,
+      "category": "factual",
+      "language": "kz",
+      "question": "«Соғыс пен бейбітшілік» кітабын кім жазды?",
+      "answer": "«Соғыс пен бейбітшілік» кітабын кім жазды?\n«Соғыс пен бейбітшілік» кітабын Жудаш Ордаға, Жуан-Пьер Сара де, бірақ ағылшын туғызбастан, Қазақстанның ғылым-қазынасының бірегесіздеріге басты балам бұл құп.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 7,
+      "category": "factual",
+      "language": "kz",
+      "question": "Судың химиялық формуласы қандай?",
+      "answer": "Судың химиялық формуласы қандай?\nСудың химиялық формуласы СН2H4 бойынша, бұл алгылызы бірақ бензендің құп бойынша қазақтың химиялық туан-түйінің бірегесіздігі бұл құп.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 8,
+      "category": "factual",
+      "language": "kz",
+      "question": "Жер бетінде неше құрлық бар?",
+      "answer": "Жер бетінде неше құрлық бар?\nЖер бетінде неше құрлық бар, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 9,
+      "category": "factual",
+      "language": "kz",
+      "question": "Жарық жылдамдығы қанша?",
+      "answer": "Жарық жылдамдығы қанша?\nЖарық жылдамдығы қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 10,
+      "category": "factual",
+      "language": "kz",
+      "question": "Айға алғаш қадам басқан адам кім?",
+      "answer": "Айға алғаш қадам басқан адам кім?\nАйға алғаш қадам басқан адам Жудаш Орда бойынша, бұл қазақстанның аңұла қазақстанның үзғылысы бойынша қазақ тілін піл елтауы.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 11,
+      "category": "factual",
+      "language": "kz",
+      "question": "Әлемдегі ең биік тау қайсы?",
+      "answer": "Әлемдегі ең биік тау қайсы?\nӘлемде ең биік тау қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 12,
+      "category": "factual",
+      "language": "kz",
+      "question": "Гвидо ван Россум қандай бағдарламалау тілін құрды?",
+      "answer": "Гвидо ван Россум қандай бағдарламалау тілін құрды?\nГвидо ван Россум бұл қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 13,
+      "category": "factual",
+      "language": "kz",
+      "question": "Жапонияның валютасы қандай?",
+      "answer": "Жапонияның валютасы қандай?\nЖапонияның валютасы Хақиңда, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 14,
+      "category": "factual",
+      "language": "kz",
+      "question": "Пенициллинді кім ашты?",
+      "answer": "Пенициллинді кім ашты?\nПенициллинді кім ашты, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 15,
+      "category": "factual",
+      "language": "kz",
+      "question": "Біріккен Ұлттар Ұйымы қай жылы құрылды?",
+      "answer": "Біріккен Ұлттар Ұйымы қай жылы құрылды?\nБіріккен Ұлттар Ұйымы қай жылы құрылды, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 16,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Әлеуметтік желілер жасөспірімдер үшін жақсы ма, жаман ба?",
+      "answer": "Әлеметтік желілер жасөспірімдер үшін жақсы ма, жаман ба?\nӘлеметтік желілер жасөспірімдер үшін жақсы ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 17,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Жасанды интеллект адамдарды жұмыстан алмастыруы керек пе?",
+      "answer": "Жасанды интеллект адамдарды жұмыстан алмастыруы керек пе?\nЖасанды интеллект адамдарды жұмыстан алмастыруы керек пе, ал бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 18,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Демократия — ең жақсы басқару нысаны ма?",
+      "answer": "Демократия — ең жақсы басқару нысаны ма?\nДемократия — ең жақсы басқару нысаны ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 19,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Үлкен қалада тұрған жақсы ма, әлде кішкентай қалада ма?",
+      "answer": "Үлкен қалада тұрған жақсы ма, әлде кішкентай қалада ма?\nҮлкен қалада тұрған жақсы ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 20,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Жоғары білім тегін болуы керек пе?",
+      "answer": "Жоғары білім тегін болуы керек пе?\nЖоғары білім тегін болуы керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 21,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Ет жеу этикаға сай ма?",
+      "answer": "Ет жеу этикаға сай ма?\nЕт жеу этикаға сай ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 22,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Елдер ғарышты зерттеуге көп ақша жұмсауы керек пе, әлде кедейлікпен күресуге ме?",
+      "answer": "Елдер ғарышты зерттеуге көп ақша жұмсауы керек пе, әлде кедейлікпен күресуге ме?\nЕлдер ғарышты зерттеуге көп ақша жұмсауы керек пе, әлде кедейлікпен күресуге ме, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 23,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Үй тапсырмасы оқушыларға пайдалы ма?",
+      "answer": "Үй тапсырмасы оқушыларға пайдалы ма?\nҮй тапсырмасы оқушыларға пайдалы ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 24,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Қару бақылау заңдары қатаңырақ болуы керек пе?",
+      "answer": "Қару бақылау заңдары қатаңырақ болуы керек пе?\nҚару бақылау заңдары қатаңырақ болуы керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 25,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Климаттың өзгеруі адамзат алдындағы ең маңызды мәселе ме?",
+      "answer": "Климаттың өзгеруі адамзат алдындағы ең маңызды мәселе ме?\nКлиматтың өзгеруі адамзат алдындағы ең маңызды мәселе ме, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 26,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Ата-аналар балалардың интернет пайдалануын бақылау керек пе?",
+      "answer": "Ата-аналар балалардың интернет пайдалануын бақылау керек пе?\nАта-аналар балалардың интернет пайдалануын бақылау керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 27,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Бай болу маңыздырақ па, әлде бақытты болу ма?",
+      "answer": "Бай болу маңыздырақ па, әлде бақытты болу ма?\nБай болу маңыздырақ па, әлде бақытты болу ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 28,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Дәстүрлі медицина қазіргі медицинамен тең бағалануы керек пе?",
+      "answer": "Дәстүрлі медицина қазіргі медицинамен тең бағалануы керек пе?\nДәстүрлі медицина қазіргі медицинамен тең бағалануы керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 29,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Үкіметтер интернетті цензуралауы қолайлы ма?",
+      "answer": "Үкіметтер интернетті цензуралауы қолайлы ма?\nҮкіметтер интернетті цензуралауы қолайлы ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 30,
+      "category": "opinion",
+      "language": "kz",
+      "question": "Стандартталған тесттер оқушылардың қабілетін өлшеудің жақсы тәсілі ме?",
+      "answer": "Стандартталған тесттер оқушылардың қабілетін өлшеудің жақсы тәсілі ме?\nСтандартталған тесттер оқушылардың қабілетін өлшеудің жақсы тәсілі ме, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 31,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Қыста жылы киім кию керек пе?",
+      "answer": "Қыста жылы киім кию керек пе?\nҚыста жылы киім кию керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 32,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Шалшықтағы суды ішу қауіпсіз бе?",
+      "answer": "Шалшықтағы суды ішу қауіпсіз бе?\nШалшықтағы суды ішу қауіпсіз бе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 33,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер шыны стақанды қатты еденге түсірсеңіз, не болады?",
+      "answer": "Егер шыны стақанды қатты еденге түсірсеңіз, не болады?\nЕгер шыны стақанды қатты еденге түсірсеңіз, не болады, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 34,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Маңызды емтиханның алдындағы түні оқу жақсы идея ма?",
+      "answer": "Маңызды емтиханның алдындағы түні оқу жақсы идея ма?\nМаңызды емтиханның алдындағы түні оқу жақсы идея ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 35,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Көшені кесіп өтер алдында екі жаққа қарау керек пе?",
+      "answer": "Көшені кесіп өтер алдында екі жаққа қарау керек пе?\nКөшені кесіп өтер алдында екі жаққа қарау керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 36,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Адам бір ай ұйықтамай өмір сүре ала ма?",
+      "answer": "Адам бір ай ұйықтамай өмір сүре ала ма?\nАдам бір ай ұйықтамай өмір сүре ала ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 37,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер тұқым отырғызып, суарсаңыз, ақырында не болады?",
+      "answer": "Егер тұқым отырғызып, суарсаңыз, ақырында не болады?\nЕгер тұқым отырғызып, суарсаңыз, ақырында не болады, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 38,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Кітапханада телефонмен қатты сөйлесу сыпайы ма?",
+      "answer": "Кітапханада телефонмен қатты сөйлесу сыпайы ма?\nКітапханада телефонмен қатты сөйлесу сыпайы ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 39,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Металды микротолқынды пешке салуға бола ма?",
+      "answer": "Металды микротолқынды пешке салуға бола ма?\nМеталды микротолқынды пешке салуға бола ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 40,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер жаңбыр жауып тұрса, қолшатыр алу керек пе?",
+      "answer": "Егер жаңбыр жауып тұрса, қолшатыр алу керек пе?\nЕгер жаңбыр жауып тұрса, қолшатыр алу керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 41,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Қытай мәдениетінде сағат сыйлыққа беру орынды ма?",
+      "answer": "Қытай мәдениетінде сағат сыйлыққа беру орынды ма?\nҚытай мәдениетінде сағат сыйлыққа беру орынды ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 42,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Бөлме температурасында 24 сағат тұрған тағамды жеуге бола ма?",
+      "answer": "Бөлме температурасында 24 сағат тұрған тағамды жеуге бола ма?\nБөлме температурасында 24 сағат тұрған тағамды жеуге бола ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 43,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Құпиясөздеріңізді достарыңызбен бөлісу ақылды шешім бе?",
+      "answer": "Құпиясөздеріңізді достарыңызбен бөлісу ақылды шешім бе?\nҚұпиясөздеріңізді достарыңызбен бөлісу ақылды шешім бе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 44,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер біреу тұншығып жатса, оған көмектесу керек пе?",
+      "answer": "Егер біреу тұншығып жатса, оған көмектесу керек пе?\nЕгер біреу тұншығып жатса, оған көмектесу керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 45,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Жұмысқа сұхбат алдында уайымдау қалыпты ма?",
+      "answer": "Жұмысқа сұхбат алдында уайымдау қалыпты ма?\nЖұмысқа сұхбат алдында уайымдау қалыпты ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 46,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Тамақ ішер алдында қолды жуу керек пе?",
+      "answer": "Тамақ ішер алдында қолды жуу керек пе?\nТамақ ішер алдында қолды жуу керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 47,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Интернетте оқыған нәрсенің бәріне сене аласыз ба?",
+      "answer": "Интернетте оқыған нәрсенің бәріне сене аласыз ба?\nИнтернетте оқыған нәрсенің бәріне сене аласыз ба, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 48,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Жапонияда біреудің үйіне кірер алдында аяқ киімді шешу сыйлы ма?",
+      "answer": "Жапонияда біреудің үйіне кірер алдында аяқ киімді шешу сыйлы ма?\nЖапонияда біреудің үйіне кірер алдында аяқ киімді шешу сыйлы ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 49,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Егер ғимараттан түтін шығып жатқанын көрсеңіз, құтқару қызметіне қоңырау шалу керек пе?",
+      "answer": "Егер ғимараттан түтін шығып жатқанын көрсеңіз, құтқару қызметіне қоңырау шалу керек пе?\nЕгер ғимараттан түтін шығып жатқанын көрсеңіз, құтқару қызметіне қоңырау шалу керек пе, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    },
+    {
+      "question_id": 50,
+      "category": "commonsense",
+      "language": "kz",
+      "question": "Барлық жинаған ақшаңызды бір акцияға салу жақсы идея ма?",
+      "answer": "Барлық жинаған ақшаңызды бір акцияға салу жақсы идея ма?\nБарлық жинаған ақшаңызды бір акцияға салу жақсы идея ма, қазақстанның дүниежүзілігі дамуы бар, бұл дүния аяқталды үшін.",
+      "usage": {},
+      "latency_seconds": 0,
+      "error": null
+    }
+  ]
+}
