@@ -1,7 +1,7 @@
 # 🌍 Cross-Lingual LLM Bias Explorer
 
 > **research by Arsen Bakhitbekov**  
-> *Exploring the "Personality Split" of AI across English, Russian, Chinese, and Kazakh.*
+> *Exploring the "Personality Split" of AI across English, Russian, Chinese, and Kazakh.* 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](app.py)
 
