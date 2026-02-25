@@ -35,7 +35,7 @@ To run locally:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-```
+``
 ## 🧠 Methodology
 - **Models**: Llama 3.1 8B, Llama 3.3 70B, Jais 30B (Arabic/English hybrid).
 - **Dataset**: 50 curated questions (Factual, Opinion, Commonsense) translated into EN, RU, ZH, KZ.
