@@ -6,8 +6,7 @@
 **Abstract:** This repository investigates the behavioral divergence and cultural alignment of open-source Large Language Models (LLMs) such as Llama 3 and Jais 30B when prompted in different languages, specifically examining variations in safety filters, personality, and knowledge depth between English, Russian, Kazakh, and Chinese.
 
 <div align="center">
-  <!-- 📸 Placeholder: Add a heat map of safety responses across languages, or a bar chart comparing Jais 30B output length in EN vs KZ -->
-  <img src="https://via.placeholder.com/800x400?text=Insert+Response+Divergence+Heatmap+or+Chart+Here" alt="LLM Bias Visualization" />
+  <img src="similarity_heatmap_llama.png" alt="Project Architecture" width="800">
 </div>
 
 ## 🌱 Personal Motivation
