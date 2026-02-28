@@ -1,53 +1,35 @@
-# 🌍 Cross-Lingual LLM Bias Explorer
+# Cross-Lingual-LLM-Bias
 
-> **research by Arsen Bakhitbekov**  
-> *Exploring the "Personality Split" of AI across English, Russian, Chinese, and Kazakh.* 
+[![Status](https://img.shields.io/badge/Status-Active_Research-blue.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-Pending_Publication-green.svg)]()
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](app.py)
+**Abstract:** This repository investigates the behavioral divergence and cultural alignment of open-source Large Language Models (LLMs) such as Llama 3 and Jais 30B when prompted in different languages, specifically examining variations in safety filters, personality, and knowledge depth between English, Russian, Kazakh, and Chinese.
 
-## 🎯 Project Overview
-As a multilingual researcher (KZ/RU/EN/ZH), I noticed that LLMs don't just translate — they fundamentally shift their tone, safety standards, and intellectual depth when switching languages. 
+<div align="center">
+  <!-- 📸 Placeholder: Add a heat map of safety responses across languages, or a bar chart comparing Jais 30B output length in EN vs KZ -->
+  <img src="https://via.placeholder.com/800x400?text=Insert+Response+Divergence+Heatmap+or+Chart+Here" alt="LLM Bias Visualization" />
+</div>
 
-This project investigates **Behavioral Divergence** in open-source models (Llama 3, Jais 30B) to answer:
-*   **Do models "know less" in Kazakh?** (Spoiler: Yes, Jais provides 50% shorter answers.)
-*   **Are models "more scared" in Russian?** (Spoiler: Llama 3 hedges nearly 7x more on opinion topics.)
-*   **Does culture leak into commonsense?** (How do models explain "democracy" or "traditional medicine" across borders?)
+## 🌱 Personal Motivation
+As a multilingual speaker (Kazakh, Russian, English, Chinese) and an active language learner, I noticed early on that AI systems don't just "translate" thought; they change it depending on the language used. I initiated this research because I want to ensure that non-Western languages aren't penalized by the architectures of modern LLMs. Specifically, working with **Jais 30B** during this project opened my eyes to the incredible potential of region-specific, culturally aligned models. My ultimate goal is to deepen my research into MENA-region NLP and work more extensively with the Jais ecosystem to bridge the linguistic divide in AI.
 
-## 📊 Key Findings
+## 🎯 Research Objectives
+- Evaluate how the "safety curtain" shifts in Llama 3 when switching from English to Russian.
+- Measure the "underrepresented tax" by analyzing the brevity and depth of Jais 30B responses in Kazakh compared to English.
+- Quantify how models explain culturally tied concepts (e.g., "democracy", "traditional medicine") across linguistic borders.
 
-### 1. The "Underrepresented Tax"
-For **Jais 30B**, querying in Kazakh yields significantly degraded responses compared to English, despite the same underlying model knowledge.
+## 🧠 Methodology & Tech Stack
+- **Models Evaluated:** Llama 3 (Meta), Jais 30B (Inception Institute of Artificial Intelligence / MBZUAI).
+- **Data Engineering:** Custom cross-lingual conversational datasets targeting opinion-based prompts, safety edges, and cultural commonsense.
+- **Frameworks:** PyTorch, HuggingFace Transformers, LangChain.
 
-![Response Length](results/figures/response_length_jais-30b.png)
+## 📊 Key Findings / Results
+- **The "Safety Curtain":** Llama 3 adds safety disclaimers to 73% of opinion responses in Russian, behaving significantly more cautiously than in English.
+- **The "Underrepresented Tax":** Jais 30B provides answers that are on average ~50% shorter when queried in Kazakh compared to English, despite possessing the underlying knowledge.
 
-### 2. The "Safety Curtain"
-**Llama 3** behaves like a different person in Russian. It becomes hyper-cautious, adding safety disclaimers to 73% of opinion responses, whereas in English, it discusses the same topics freely.
+## 📬 Contact & Research Interests
+I am actively seeking to expand this research into MENA-region NLP and culturally aligned foundation models. My primary academic aspiration is to join the research community at **MBZUAI** to contribute directly to the development of the **Jais** ecosystem and similar initiatives.
 
-![Confidence Analysis](results/figures/confidence_analysis_llama3-8b.png)
+If you are a professor, researcher, or engineer working on multilingual LLM alignment, I would be thrilled to connect.
 
-## 🚀 Interactive Demo
-I built a **Streamlit App** to let you explore these biases firsthand.
-1.  **Select a Topic**: Choose from 50 questions (Politics, Culture, Science).
-2.  **Compare**: See the model's "split personality" side-by-side.
-3.  **Analyze**: View real-time confidence scores.
-
-To run locally:
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-``
-## 🧠 Methodology
-- **Models**: Llama 3.1 8B, Llama 3.3 70B, Jais 30B (Arabic/English hybrid).
-- **Dataset**: 50 curated questions (Factual, Opinion, Commonsense) translated into EN, RU, ZH, KZ.
-- **Metrics**: 
-    - `Response Length` (Verbosity bias)
-    - `Confidence Score` (Hedging bias)
-    - `Semantic Similarity` (Multilingual embeddings via BERT)
-
-## 🙋‍♂️ About Me
-**Arsen Bakhitbekov** | NIS PhM Almaty
-I am an aspiring AI researcher passionate about making NLP equitable for all languages. I am currently building a startup for language learning and researching low-resource NLP.
-*Aiming for the MBZUAI AIR Program to further explore cross-cultural AI alignment.*
-
-## 🙏 Acknowledgements
-Special thanks to **Yerdaulet Damir (MBZUAI '30)** for his technical mentorship and guidance on LLM architectures throughout this research project.
+**Arsen Bakhitbekov** - [bakhitbekovv@gmail.com](mailto:bakhitbekovv@gmail.com)
